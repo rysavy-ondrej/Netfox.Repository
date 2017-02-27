@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="54281653-801d-44c8-b93e-dd9cd33b8820" Title="Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="d7ef3520-ec2b-487d-8dc2-cf060b983915" Title="Netfox.Repository" Url="html/baa52a74-c444-58d5-ceff-00c0e3bfb6b6.htm">
+      <HelpTOCNode Id="6569ee5d-6fae-4d25-92af-a100f78acbe1" Title="ContextStatistics Class" Url="html/c64c6dd3-06b9-0199-9637-59b4d472570c.htm">
+        <HelpTOCNode Title="ContextStatistics Constructor " Url="html/628cf46a-bbec-2696-a2b8-ec16caeb0863.htm" />
+        <HelpTOCNode Id="bb066e0d-fe3b-41fe-b825-3b5956851da3" Title="ContextStatistics Properties" Url="html/e32cf711-8815-3977-bd5e-2bb10c2c33e8.htm">
+          <HelpTOCNode Title="AddedDocuments Property " Url="html/4b33a120-5df9-0c15-fbff-bd42571738a9.htm" />
+          <HelpTOCNode Title="DatabaseName Property " Url="html/52ebaf28-d5bd-bddc-a188-692c7aa27077.htm" />
+          <HelpTOCNode Title="DeletedDocuments Property " Url="html/536d7349-b083-0845-5aaf-0a3f6ce8a85e.htm" />
+          <HelpTOCNode Title="FullCleanUpExecCount Property " Url="html/d24a67f7-edea-69a7-c82f-368e3dafd2d0.htm" />
+          <HelpTOCNode Title="LastCleanUp Property " Url="html/7a60988d-6f2d-3351-a7d1-0d5a3d7225b9.htm" />
+          <HelpTOCNode Title="ModifiedDocuments Property " Url="html/ec4963c8-5f71-a9a0-5570-4bc2f2354680.htm" />
+          <HelpTOCNode Title="PartialCleanUpExecCount Property " Url="html/e6e23b00-e66d-59a8-152f-bd377befc03c.htm" />
+          <HelpTOCNode Title="TotalCleanUpTime Property " Url="html/604b69b4-3783-922b-3c6a-3fca03f08daf.htm" />
+          <HelpTOCNode Title="TotalReclaimed Property " Url="html/621fe0ae-b826-aa0d-286f-6efe54033503.htm" />
+          <HelpTOCNode Title="UnchangedAllDocuments Property " Url="html/00c77ea8-209d-af3d-bdfd-6e94c1f4f3e4.htm" />
+          <HelpTOCNode Title="UnchangedDocuments Property " Url="html/75f94edd-3baa-904a-4c8f-a01a74e99a79.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d88c9c00-37f6-4523-9f1c-bf53b215d215" Title="ContextStatistics Methods" Url="html/9e4d8708-9ea8-e7c4-a644-9ab5a614ff1a.htm">
+          <HelpTOCNode Title="Print Method " Url="html/cb0f4c05-c352-eed3-c2e6-8a4db02ac6d6.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="DocumentState Enumeration" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+      <HelpTOCNode Id="40671127-971e-472e-995d-24692d80e0e9" Title="IDocument Interface" Url="html/f39fbf2f-1fd1-5069-7772-25a2630afd2a.htm">
+        <HelpTOCNode Id="5ab06515-c5cc-431b-9585-7b5fd3defb4f" Title="IDocument Properties" Url="html/1a57da5f-b01a-77e0-eace-5f232b16347c.htm">
+          <HelpTOCNode Title="Id Property " Url="html/947ea043-3b21-6520-30e1-e56e90952b98.htm" />
+          <HelpTOCNode Title="Navigable Property " Url="html/31fa5321-9d78-beb7-97d9-1c7f17bbf968.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6fc97d42-b1ac-4f56-9644-7895d1c69e67" Title="IDocument Methods" Url="html/f1d4d4b2-5b54-18f0-ad39-c43dbb82a68e.htm">
+          <HelpTOCNode Title="GetPropertyValue Method " Url="html/b47f158c-8b26-455f-e00c-8c4158b19180.htm" />
+          <HelpTOCNode Title="SetPropertyValue Method " Url="html/ab33c1e0-d4d9-3f8c-e9cc-2ad15f3c7a8a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3209ba72-d237-4083-a24f-6b8a31e88194" Title="IDocument Events" Url="html/e0293d19-2142-9988-848f-935664046c61.htm">
+          <HelpTOCNode Title="ControlledPropertyChanged Event" Url="html/0225aaf9-80df-350d-7fc3-68ccb2a305a2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="91d3d9ce-e91d-4ce5-94ad-d38096312ecc" Title="NCollectionEntry(TDocument, TElement) Class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm">
+        <HelpTOCNode Id="af7cfb8e-f3a3-40c6-9bd3-6c9481e2104b" Title="NCollectionEntry(TDocument, TElement) Properties" Url="html/065188bf-4408-2b75-765f-404aa0076a03.htm">
+          <HelpTOCNode Title="Count Property " Url="html/2ebc1253-50a2-1ee2-b844-7849f26e4dcd.htm" />
+          <HelpTOCNode Title="CurrentValue Property " Url="html/d8e6bd30-ee3a-af0e-a3aa-1df97916c3f9.htm" />
+          <HelpTOCNode Title="DocumentEntry Property " Url="html/73a8f632-0a38-bd80-86a2-6bea7d938b92.htm" />
+          <HelpTOCNode Title="IsLoaded Property " Url="html/da571b23-4363-b9c9-5467-f6d886445c27.htm" />
+          <HelpTOCNode Title="IsReadOnly Property " Url="html/7b9460f6-7f45-ddc9-dfb5-1906f9aa7455.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/a62049f7-a74e-3fa6-d864-f663eebc15ed.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1bbf5d33-06de-4a87-8dd0-0845a22c975f" Title="NCollectionEntry(TDocument, TElement) Methods" Url="html/d87e6d96-2599-0ba2-9d1c-bc8ff9f73420.htm">
+          <HelpTOCNode Title="Add Method " Url="html/cde979f2-51a2-2992-3943-bfe214a9986f.htm" />
+          <HelpTOCNode Title="Clear Method " Url="html/79ebb4a6-9456-e7d3-5100-1411d07f7cab.htm" />
+          <HelpTOCNode Title="Contains Method " Url="html/6f6f47b8-0b48-5dc0-660c-deaf6199f7ab.htm" />
+          <HelpTOCNode Title="CopyTo Method " Url="html/b4f5fab3-4f75-e6f4-612c-f1728c55c166.htm" />
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/f83b6bc5-2581-e776-582e-bbf62c163090.htm" />
+          <HelpTOCNode Title="Load Method " Url="html/1d20e206-5572-930f-84c7-e69844562244.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/70566e0e-8d1b-8174-2652-4ed26edee9e2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a8b52d2f-2c6e-4e03-b1ab-926e0d8fc6b1" Title="NDocumentEntry Class" Url="html/3b3433ba-430e-c12e-287d-7ea4e807b089.htm">
+        <HelpTOCNode Id="c41e9ea1-07e1-42a3-9db5-4c895b8ba7aa" Title="NDocumentEntry Properties" Url="html/01007935-85f7-2d58-9799-dbe1b8bfb8be.htm">
+          <HelpTOCNode Title="Context Property " Url="html/206433e9-a5b3-4966-b072-72559c8092ff.htm" />
+          <HelpTOCNode Title="Document Property " Url="html/c3fd49b2-e0ee-5c8e-4b19-a36d25664637.htm" />
+          <HelpTOCNode Title="DocumentType Property " Url="html/86be285f-a879-d25c-a957-e4d8f6175374.htm" />
+          <HelpTOCNode Title="Id Property " Url="html/b44802c8-b331-15bb-5cc4-3f5802b0b79b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="273bfff7-769b-4ebf-a372-5df73df48dbd" Title="NDocumentEntry Methods" Url="html/7a7c3aed-34de-7ca5-a6ae-44817f335388.htm">
+          <HelpTOCNode Title="GetCollectionChangeHandler Method " Url="html/d3f0b882-4c8f-8dcd-ac96-3ce45fc4177a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8bfcf72a-4553-40bd-bc34-e292a564b693" Title="NDocumentEntry(TDocument) Class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm">
+        <HelpTOCNode Id="f27f36ba-b33b-428f-a8ef-6053941bd05b" Title="NDocumentEntry(TDocument) Properties" Url="html/826dce46-a7d7-eadf-ed37-af7464d8e63d.htm">
+          <HelpTOCNode Title="Document Property " Url="html/824b2762-8f5f-beb2-f0b7-6f5d7a6edb67.htm" />
+          <HelpTOCNode Title="DocumentType Property " Url="html/6d9962d7-f8c1-b9bc-36be-56691ae86c85.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="173306c3-6af5-4c8f-b161-67f134dd0d67" Title="NDocumentEntry(TDocument) Methods" Url="html/731cd80a-5318-8757-b928-ffbef9451255.htm">
+          <HelpTOCNode Title="Collection(TElement) Method " Url="html/25f0e92a-b3fb-eb3d-4f9d-bcd7a636f019.htm" />
+          <HelpTOCNode Title="Property(TProperty) Method " Url="html/3f0a4e2e-26b2-0bca-a259-0bea67151a62.htm" />
+          <HelpTOCNode Title="Reference(TProperty) Method " Url="html/dc7e5883-6119-596f-0653-eb0730c1c761.htm" />
+          <HelpTOCNode Title="ReloadAsync Method " Url="html/044f7c58-ed2b-015d-84c5-57a7a049b430.htm" />
+          <HelpTOCNode Title="SaveChangesAsync Method " Url="html/937cb681-4d3c-7d86-1168-4563aa2e10e5.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="98e2d971-306a-4c57-989c-94087eb512f6" Title="NDocumentSet(TDocument) Class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm">
+        <HelpTOCNode Id="b9292d85-b696-455f-ae7e-965652454e80" Title="NDocumentSet(TDocument) Properties" Url="html/3fb90bb5-85f2-7dae-cc5f-b91812d07682.htm">
+          <HelpTOCNode Title="Context Property " Url="html/205e2574-b5cc-2b0b-30bf-bc9ba2d74ad8.htm" />
+          <HelpTOCNode Title="ElementType Property " Url="html/14c5d528-13c5-84b6-d8aa-bc7d1a3f55a1.htm" />
+          <HelpTOCNode Title="Expression Property " Url="html/37f12a8c-05bd-e273-0f5e-9feb993b8c94.htm" />
+          <HelpTOCNode Title="MongoCollection Property " Url="html/e6fdbae9-58a5-3831-cb57-cdfc37c991d0.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/fe9aa030-9e95-b028-49d8-f69316a5ea66.htm" />
+          <HelpTOCNode Title="Provider Property " Url="html/3988884a-fa3b-db80-1b0a-5ad9a90faa07.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="43c5cedf-1f00-4f28-8ef6-b07d1a60bfc8" Title="NDocumentSet(TDocument) Methods" Url="html/880adba6-322e-e66f-5d82-a98823993529.htm">
+          <HelpTOCNode Title="Add Method " Url="html/4deba15e-ec20-d4a0-d6b9-207da6427d20.htm" />
+          <HelpTOCNode Title="AddRange Method " Url="html/2c0ea894-9e86-6bbd-62e9-5d896765214f.htm" />
+          <HelpTOCNode Title="Attach Method " Url="html/d93833e5-7eea-d695-2bff-5f46fbd1c18f.htm" />
+          <HelpTOCNode Title="CountAsync Method " Url="html/e7583323-6574-5c64-e26f-386c3cfff886.htm" />
+          <HelpTOCNode Title="DeleteAllAsync Method " Url="html/4e3e9a08-1c37-dfd6-2d44-dfcf339062a2.htm" />
+          <HelpTOCNode Id="23dbe12e-2c6a-45e5-95fa-5441df2897f3" Title="DeleteAsync Method " Url="html/2c63d014-3bf8-4b46-9c73-c93cf42e3fd1.htm">
+            <HelpTOCNode Title="DeleteAsync Method (Expression(Func(TDocument, Boolean)), CancellationToken)" Url="html/2d211249-87bf-dff8-3fd8-5fa4d2d69c4f.htm" />
+            <HelpTOCNode Title="DeleteAsync Method (TDocument, CancellationToken)" Url="html/8e7f936e-0201-389e-ef77-ffa6c5282ab9.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="d2494431-025a-4f49-ae51-7d7211e16c74" Title="FindAsync Method " Url="html/97b417f6-d34e-d3c3-5b66-1bc2ac5c3279.htm">
+            <HelpTOCNode Title="FindAsync Method (ObjectId)" Url="html/12ee9d54-ed49-2630-2638-4a7446b48aef.htm" />
+            <HelpTOCNode Title="FindAsync Method (Expression(Func(TDocument, Boolean)), FindOptions`1(TDocument), CancellationToken)" Url="html/7503a3ef-d1cd-e7ae-16ad-05819205ffc5.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="FindOneAsync Method " Url="html/398b974c-0a8e-26cc-311e-aff61c4b93d8.htm" />
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/9bab4f15-affd-12d5-0cbd-d4ffc36da1b1.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/b485c21f-8619-f4e8-d78f-4e1e21e42cc0.htm" />
+          <HelpTOCNode Title="Update Method " Url="html/e69e8ad7-aaad-c4cf-f674-3bc7dba8136a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a38473a9-3ab4-42b8-b16d-ba60373e7c7c" Title="NHashSet(TDocument) Class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm">
+        <HelpTOCNode Id="1f5a0417-f86d-4410-ba84-6b72968c029b" Title="NHashSet(TDocument) Constructor " Url="html/246f28f2-5a75-7053-a325-b252c8d1384e.htm">
+          <HelpTOCNode Title="NHashSet(TDocument) Constructor " Url="html/1ea38d07-8e0d-b367-3881-a6dd49b16d5e.htm" />
+          <HelpTOCNode Title="NHashSet(TDocument) Constructor (IEnumerable(TDocument))" Url="html/83a3dae7-a703-ad3e-d0f2-b32c3bf70571.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="252ebdfc-a8dd-4175-b487-1f8130a28dd4" Title="NHashSet(TDocument) Properties" Url="html/ea8fc244-262b-e7d6-3819-6042026f9aea.htm">
+          <HelpTOCNode Title="Count Property " Url="html/f784ce68-e960-fcb7-fbed-a1e462cd9442.htm" />
+          <HelpTOCNode Title="IsReadOnly Property " Url="html/61ee7b86-8417-8b35-dbba-56aba84491c7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6de6905d-54ef-4d45-b518-bf68537c3924" Title="NHashSet(TDocument) Methods" Url="html/548a2cda-1134-436a-2418-b1d0ef7569a7.htm">
+          <HelpTOCNode Title="Add Method " Url="html/1774ade7-758d-72fb-4580-947a994e0a8e.htm" />
+          <HelpTOCNode Title="Clear Method " Url="html/95309991-9462-a774-c1f7-5a1aa943b7bd.htm" />
+          <HelpTOCNode Title="Contains Method " Url="html/3fb98db9-df94-b24c-73ec-72b2712473ab.htm" />
+          <HelpTOCNode Title="CopyTo Method " Url="html/9cf2b1b6-6b16-ad7f-eb0b-b2e307fd7979.htm" />
+          <HelpTOCNode Title="ExceptWith Method " Url="html/72f9a5ea-ef92-5422-05a2-388cdfdae626.htm" />
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/207a2d7f-1c53-4722-5bb2-dafbb7414f40.htm" />
+          <HelpTOCNode Title="IntersectWith Method " Url="html/a56c9192-a194-9067-2381-cd62a1a8b77b.htm" />
+          <HelpTOCNode Title="IsProperSubsetOf Method " Url="html/6ce1924f-39db-1235-dfb3-1baf1884eab3.htm" />
+          <HelpTOCNode Title="IsProperSupersetOf Method " Url="html/c0bf076e-c5eb-fdec-4a3a-0a8a05d2f0c0.htm" />
+          <HelpTOCNode Title="IsSubsetOf Method " Url="html/599113aa-3569-3899-7cc8-92ba91ce239a.htm" />
+          <HelpTOCNode Title="IsSupersetOf Method " Url="html/9107e6f2-d085-e7fe-4d6a-71f10e50badf.htm" />
+          <HelpTOCNode Title="Overlaps Method " Url="html/61a816d5-7e29-1bb8-2e06-84b7eccf4b72.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/cf191fbc-7131-a329-4ac4-86390a19f5d4.htm" />
+          <HelpTOCNode Title="SetEquals Method " Url="html/99ddb757-56a5-9488-d786-2e96f760d7cd.htm" />
+          <HelpTOCNode Title="SymmetricExceptWith Method " Url="html/a536bffd-d526-f782-06cc-8a9fbcb6b4ef.htm" />
+          <HelpTOCNode Title="UnionWith Method " Url="html/e3a411d5-a8ca-17d0-7a04-a19c90c6ddd1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8833acad-86af-4eef-96a2-d1d0885d8230" Title="NHashSet(TDocument) Events" Url="html/d94805f8-2b54-01f9-8d10-4741791fa69d.htm">
+          <HelpTOCNode Title="CollectionChanged Event" Url="html/289d350a-029c-9dda-92b2-70e099382fa9.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec8c1fcb-19cc-4c7f-b03b-6722536fe7a3" Title="NObservableCollection(TDocument) Class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm">
+        <HelpTOCNode Id="68f4b9ab-06c7-4429-a354-74087be98226" Title="NObservableCollection(TDocument) Properties" Url="html/54ac2945-0887-5d22-49f8-822e8a5f671e.htm">
+          <HelpTOCNode Title="Context Property " Url="html/2c3a3a73-fb74-cd27-7125-b0ec69ea0fe9.htm" />
+          <HelpTOCNode Title="IsBusy Property " Url="html/f81e3740-00ae-8077-d294-791028e87db3.htm" />
+          <HelpTOCNode Title="MongoCollection Property " Url="html/d39e2073-5f1a-14f2-13c0-c4254a31ed64.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/dd01cb21-2e65-839e-26c3-654024c3e611.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5041a9fc-ed4f-4107-9716-10555339bb9d" Title="NObservableCollection(TDocument) Methods" Url="html/6233429a-d89c-9fd3-5551-23a02390eafc.htm">
+          <HelpTOCNode Title="FindAsync Method " Url="html/59674034-6e31-3efe-9649-8d67878e91ba.htm" />
+          <HelpTOCNode Title="Subscribe Method " Url="html/15f6668c-cfce-82e0-d665-90ac008b87cd.htm" />
+          <HelpTOCNode Title="TailCollectionFindAsync Method " Url="html/e96f83d0-c51d-ee7a-5c30-25b35bf1a776.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8b1c1320-df21-4093-b3a6-2fbe4aa2a22b" Title="NPropertyEntry(TDocument, TProperty) Class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm">
+        <HelpTOCNode Id="45705274-3cb4-40b1-be03-78743d1e1f5a" Title="NPropertyEntry(TDocument, TProperty) Properties" Url="html/e3881886-8184-5e78-cae6-71ba77984d10.htm">
+          <HelpTOCNode Title="CurrentValue Property " Url="html/22277582-0ba3-be7b-8a7c-0e7ac9803739.htm" />
+          <HelpTOCNode Title="DocumentEntry Property " Url="html/12da27e2-edfe-64dd-fb3f-641b6836f95d.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/84f9dda4-4256-57a7-add7-83b487eae0f1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="NPropertyEntry(TDocument, TProperty) Methods" Url="html/af119e8e-7728-a36a-0bfd-7d809b1a4387.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c9f5c183-62a2-417b-83fa-93600d1ab503" Title="NReferenceEntry(TDocument, TProperty) Class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm">
+        <HelpTOCNode Id="83c16164-0ffe-43f5-9980-2fa0ab1031f0" Title="NReferenceEntry(TDocument, TProperty) Properties" Url="html/58c5f5d4-e4e2-e0b3-09eb-28d2ba4c39a1.htm">
+          <HelpTOCNode Title="CurrentValue Property " Url="html/bb886ac2-d383-e09e-bf2b-6ea5dbad9892.htm" />
+          <HelpTOCNode Title="DocumentEntry Property " Url="html/701d8465-1549-9caf-0b6b-f3877bc1e1fc.htm" />
+          <HelpTOCNode Title="IsLoaded Property " Url="html/6362b6f8-d386-784f-de25-561d251cee6d.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/4e269c96-c045-065d-bbf3-7060fe60adfb.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e62c14e2-a1ff-4420-9c60-d7e285049622" Title="NReferenceEntry(TDocument, TProperty) Methods" Url="html/8b25e645-d3a1-5627-596c-bc8f6ea07994.htm">
+          <HelpTOCNode Title="Load Method " Url="html/c2082704-4e0b-c4e8-af65-5e2f202d0f20.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="69fd7776-7a37-4483-8a2b-b4f9f64465fe" Title="NRepositoryContext Class" Url="html/da26987c-8268-1a26-7df2-98433cfc3402.htm">
+        <HelpTOCNode Title="NRepositoryContext Constructor " Url="html/aecb4409-24dd-1890-e2fb-a8d892a1c684.htm" />
+        <HelpTOCNode Id="8a36d711-344f-4a31-b4f8-448af21a65f4" Title="NRepositoryContext Properties" Url="html/2e9804b7-63fd-ac37-cfdd-1f034b8b7f1f.htm">
+          <HelpTOCNode Title="ConfiguredUrl Property " Url="html/9c812228-fed9-9b14-6d32-ad3810a829e0.htm" />
+          <HelpTOCNode Title="DatabaseName Property " Url="html/873adede-cd74-ace9-b664-a3b3c64b44bd.htm" />
+          <HelpTOCNode Title="MongoDatabase Property " Url="html/76c3064e-ef03-7a36-6faa-21b46525e6b1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aa5db5a7-3823-49ff-8010-d0f9ca93e067" Title="NRepositoryContext Methods" Url="html/53530a43-746f-527b-a063-e9a7ae960983.htm">
+          <HelpTOCNode Title="Collection(TDocument) Method " Url="html/514f6d0c-682c-7d1d-1725-e707ce583c1c.htm" />
+          <HelpTOCNode Id="08501c6e-d216-42ba-9fa0-5a317eba96ea" Title="Create Method " Url="html/f6733444-0fce-ecc5-0a1c-696d9180f126.htm">
+            <HelpTOCNode Title="Create Method (String, NDocumentStateManager)" Url="html/4fb6aecf-b7a2-1a30-2e7b-f34e966d3ed6.htm" />
+            <HelpTOCNode Title="Create Method (MongoUrl, String, NDocumentStateManager)" Url="html/10c55786-23f1-f7d5-26be-8033edc84e84.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="CreateObject(TDocument) Method " Url="html/650d8199-f589-364b-ea8c-3e95f0c280ce.htm" />
+          <HelpTOCNode Id="35776e36-3908-4b13-8317-cce59ff16a8c" Title="DeleteDatabaseAsync Method " Url="html/2b9fead1-d9bf-9d3e-fe69-6870d3f35348.htm">
+            <HelpTOCNode Title="DeleteDatabaseAsync Method (String)" Url="html/7ad2cc00-3665-9f81-9e31-6c2067d59f32.htm" />
+            <HelpTOCNode Title="DeleteDatabaseAsync Method (MongoUrl, String)" Url="html/aea0bc16-1bc4-da1f-0241-f7478768d3ea.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="4a2023fb-2874-458f-936c-7be0ec1fe8c9" Title="Dispose Method " Url="html/f47aef33-08fd-7baa-177e-93de382b1808.htm">
+            <HelpTOCNode Title="Dispose Method " Url="html/ca09eae7-494d-05e5-763f-0e20047c0dce.htm" />
+            <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/01248450-1ba0-b9b3-beac-d8bb658c76cf.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Entry(TDocument) Method " Url="html/4be75f46-a1bb-7963-b815-cc367750cdcb.htm" />
+          <HelpTOCNode Title="FindObjectByIdAsync(TDocument) Method " Url="html/785a8c32-82b5-ace7-2838-f4da929badc0.htm" />
+          <HelpTOCNode Title="FindObjectsByIdsAsync(TDocument) Method " Url="html/61518350-0228-8d71-1aaf-bf8040c46904.htm" />
+          <HelpTOCNode Title="GetStatistics Method " Url="html/f6d4838e-9d24-5185-a8e5-5bf67add9970.htm" />
+          <HelpTOCNode Title="ObservableCollection(TDocument) Method " Url="html/f8bca8d1-89bc-db1b-47ff-8ee1f2e8c6e8.htm" />
+          <HelpTOCNode Title="RegisterDocumentTypes Method " Url="html/d58fc02a-695f-55ed-d645-3175f64d73e8.htm" />
+          <HelpTOCNode Title="ReloadDocumentAsync(TDocument) Method " Url="html/a6296309-ee85-b33f-55c1-c4734dd16aec.htm" />
+          <HelpTOCNode Id="0ff04cc1-445e-4b53-b2e3-8e0b82ef2bab" Title="SaveChangesAsync Method " Url="html/224ef1ae-4eda-44d1-86f5-3ef0fae70b13.htm">
+            <HelpTOCNode Title="SaveChangesAsync Method " Url="html/1a13025c-eaa9-b027-3b59-f74a8ecf6edd.htm" />
+            <HelpTOCNode Title="SaveChangesAsync(TDocument) Method (NDocumentEntry(TDocument))" Url="html/3a6a056e-8969-adac-8a9c-dc0baac7280c.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="415f8d38-37c7-4459-98ac-8c99f2095384" Title="Netfox.Repository.Attributes" Url="html/749ec876-8cc3-2791-4a2d-892df2f0f489.htm">
+      <HelpTOCNode Id="a8930d8c-39a6-4b6b-b22d-9df10c3767b6" Title="NCollectionAttribute Class" Url="html/95cbde59-044c-9b9a-4b9d-d0fed11910b5.htm">
+        <HelpTOCNode Title="NCollectionAttribute Constructor " Url="html/db22f3d2-1135-b1ff-10f6-ab3d94ece5b8.htm" />
+        <HelpTOCNode Id="7fc52eb0-e996-4717-8547-fdd35b358e50" Title="NCollectionAttribute Properties" Url="html/b539087f-97c5-07ab-9e67-25bb4470dd56.htm">
+          <HelpTOCNode Title="DocumentType Property " Url="html/111e5aa9-c8f8-75bc-c396-d7b452631eb6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bb1c7b3c-6f15-44b0-a302-9f0a541f0621" Title="NCollectionAttribute Methods" Url="html/fd0d3628-621e-7b7d-8afb-f3c258e9cfc5.htm">
+          <HelpTOCNode Title="CreateHashSet Method " Url="html/867bff51-ef7c-cf98-5db3-960dd3c05d69.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ffb2cb7b-16c0-4898-815c-dde9dfdddff6" Title="NDocumentAttribute Class" Url="html/8b49e8b1-b35f-53e5-bf45-7a2487b0baed.htm">
+        <HelpTOCNode Title="NDocumentAttribute Constructor " Url="html/fd05b53b-481f-ee01-e25f-2f3c8c39ff3d.htm" />
+        <HelpTOCNode Id="973f5fa4-3f99-4360-ab4d-84aa40fd44b3" Title="NDocumentAttribute Properties" Url="html/08af768d-a1e6-bc9a-e668-f99aa4910dbe.htm">
+          <HelpTOCNode Title="Id Property " Url="html/ea821dfb-8ba0-cb1a-9c87-ec2f453a3900.htm" />
+          <HelpTOCNode Title="Navigable Property " Url="html/c18addc8-62e3-8c28-fb0f-30b738064f81.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="528159da-a595-4f03-9a0d-9e042deb010f" Title="NDocumentAttribute Methods" Url="html/9fd37ca7-143d-c315-3b8a-344057851533.htm">
+          <HelpTOCNode Title="FindControlledProperties Method " Url="html/080ed9cc-0284-bd4d-a23d-615cd9d7c34d.htm" />
+          <HelpTOCNode Title="GetPropertyValue Method " Url="html/a03ff3a7-2c7a-3eff-8208-c849440b2676.htm" />
+          <HelpTOCNode Title="OnValueChanged Method " Url="html/0d018b93-d809-6d4c-404e-19bc5884be5d.htm" />
+          <HelpTOCNode Title="ProvideAspects Method " Url="html/22cf638f-1e82-353f-66bf-e22ed3df9bef.htm" />
+          <HelpTOCNode Title="RuntimeInitializeInstance Method " Url="html/963a4861-d39c-af6b-e231-eb3f72f4f0fa.htm" />
+          <HelpTOCNode Title="SetPropertyValue Method " Url="html/4b0888c4-d75d-2980-23d2-dc064d9084f3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4b61a980-9a9c-4d03-bedd-cbb5609d5bfb" Title="NDocumentAttribute Events" Url="html/a869ec81-d013-0e2c-f0db-241f654e80a6.htm">
+          <HelpTOCNode Title="ControlledPropertyChanged Event" Url="html/4c483675-46e6-7595-5c1f-b9e6b13f4d07.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c684b602-75a8-4371-bf58-5aac81af57df" Title="NReferenceAttribute Class" Url="html/9b23b19b-9312-29f7-6e52-b701e1d59bff.htm">
+        <HelpTOCNode Title="NReferenceAttribute Constructor " Url="html/81b1ee9b-5ea4-23e4-781d-d35d9d72eb36.htm" />
+        <HelpTOCNode Title="NReferenceAttribute Properties" Url="html/db92c44d-8aa5-7e94-6be0-864b36555b05.htm" />
+        <HelpTOCNode Title="NReferenceAttribute Methods" Url="html/be16e7c4-faf0-83f7-b4a7-29e586a40673.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="caac0d46-935a-4a33-93fd-5106f88ccdf9" Title="NValueAttribute Class" Url="html/9191ca13-2a47-4f88-ebbf-c08433a7ff80.htm">
+        <HelpTOCNode Title="NValueAttribute Constructor " Url="html/59382238-f386-3714-57b3-a50cd9fd9b2b.htm" />
+        <HelpTOCNode Title="NValueAttribute Properties" Url="html/e1713173-eb6a-3232-d647-e7e187bd7bf3.htm" />
+        <HelpTOCNode Title="NValueAttribute Methods" Url="html/a7b29d06-f2eb-cf3c-a5cb-cbb0a3cf16d1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cdc724fb-e968-4908-a797-e5f4b73385ff" Title="Netfox.Repository.Serialization" Url="html/809ea0a6-b9f3-923f-9b2d-6a158109d0f0.htm">
+      <HelpTOCNode Title="AfterDocumentDeserializationCallback Delegate" Url="html/e50dce5f-7b41-7182-bc61-d58a84abfb7e.htm" />
+      <HelpTOCNode Title="BeforeDocumentDeserializationCallback Delegate" Url="html/7c0704ef-92cc-893d-56c9-d2b78224aec0.htm" />
+      <HelpTOCNode Id="6e31e10d-5fee-40bb-9ad6-1a29ca712ace" Title="NDocumentSerializer Class" Url="html/3f67a2e0-f6bf-dfd9-c26d-f46f4f837004.htm">
+        <HelpTOCNode Title="NDocumentSerializer Constructor " Url="html/94bdadc0-4bfc-0a0b-482b-68f3a57c3c5e.htm" />
+        <HelpTOCNode Id="94faec8c-4011-491f-9011-a3a73d42b5e6" Title="NDocumentSerializer Properties" Url="html/05719734-e76a-2d8a-dd46-5340ccb3c1b6.htm">
+          <HelpTOCNode Title="ValueType Property " Url="html/81724d27-8ba6-1cd6-1663-8d833b0f373f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="99b8db65-85ec-49e3-9537-341eb0b243b0" Title="NDocumentSerializer Methods" Url="html/f656ab2e-e6f3-de7e-2873-fc7ca778bb7f.htm">
+          <HelpTOCNode Title="Deserialize Method " Url="html/3f5995b8-9932-81e2-9937-daaa70960341.htm" />
+          <HelpTOCNode Title="Serialize Method " Url="html/01c60c06-8ff0-71bb-433f-2c8c73b2dd60.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5e5dc82e-8606-4fd7-b454-83119da9f4e8" Title="NDocumentSerializer Fields" Url="html/83d3eb7a-0f58-476c-087d-35db81417af2.htm">
+          <HelpTOCNode Title="AfterDocumentDeserialization Field" Url="html/a6d7dd70-4b59-f9d6-fe0f-e8fd7fc3cc9e.htm" />
+          <HelpTOCNode Title="BeforeDocumentDeserialization Field" Url="html/c593c6dc-df09-66dc-0346-494ba6f66ce5.htm" />
+          <HelpTOCNode Title="ObjectIdArraySerializer Field" Url="html/0918cb9b-902f-e3d8-caf8-5db931406414.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="901a8319-3769-474b-8fb3-b2f1ec2efd27" Title="NDocumentSerializer(TDocument) Class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm">
+        <HelpTOCNode Title="NDocumentSerializer(TDocument) Constructor " Url="html/2d2bffa8-cdf5-1678-dc8d-fe31e6b9844d.htm" />
+        <HelpTOCNode Id="2bd7ed06-78a3-4748-a390-e976bc46fc77" Title="NDocumentSerializer(TDocument) Properties" Url="html/151df292-cb3f-3407-f93f-89a15496cb8e.htm">
+          <HelpTOCNode Title="ValueType Property " Url="html/a58c879f-4988-eb2a-ce65-4ba95107e712.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="37525b3d-92f3-4759-a54b-1d082a803235" Title="NDocumentSerializer(TDocument) Methods" Url="html/3d9caddf-15d8-7f9d-7e37-9bf0d337d87b.htm">
+          <HelpTOCNode Title="Deserialize Method " Url="html/9af6a9df-a014-5266-4539-e0827ee4d6af.htm" />
+          <HelpTOCNode Id="1375d47e-97ce-4f94-8e59-c5f0ced131ef" Title="Serialize Method " Url="html/3d84c638-4bd2-d761-0276-d4c167bb950e.htm">
+            <HelpTOCNode Title="Serialize Method (BsonSerializationContext, BsonSerializationArgs, Object)" Url="html/716e69df-e654-def2-3201-53d44a41eece.htm" />
+            <HelpTOCNode Title="Serialize Method (BsonSerializationContext, BsonSerializationArgs, TDocument)" Url="html/3e8c0267-cf2f-8454-cbfd-f9c96872038a.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="TryGetMemberSerializationInfo Method " Url="html/73a93290-3da9-170a-6d48-87027d0933f7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="NDocumentSerializer(TDocument) Fields" Url="html/91679be5-40bd-f49f-3fea-c0f503afe41b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ace573b2-fc34-4599-9b53-f233069b9167" Title="Netfox.Repository.Utils" Url="html/a95ceba3-805f-4141-841e-56da7602f8f3.htm">
+      <HelpTOCNode Id="68eb8446-03c1-4fe2-8b0c-860834c8c0d3" Title="CollectionsEx Class" Url="html/8af86250-0ec8-1055-a453-6e9326a69b09.htm">
+        <HelpTOCNode Id="48d48e21-15ad-4ac8-9ac2-ceb581c46370" Title="CollectionsEx Methods" Url="html/0c54c160-933f-3e6b-c756-99984f715851.htm">
+          <HelpTOCNode Title="Slice(T) Method " Url="html/72478d94-ad5d-cb0d-7fec-b8eb0c7b8222.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0acbe015-cf60-4db5-a5a8-8a4cdd6dadc9" Title="DocumentFactory Class" Url="html/5d870329-7531-b258-18a0-90115ea097fe.htm">
+        <HelpTOCNode Id="2d5f256a-db6d-48fb-b959-ff987baa7341" Title="DocumentFactory Methods" Url="html/524f87e5-a319-567a-022d-52f84aecb758.htm">
+          <HelpTOCNode Title="CreateNew Method " Url="html/840ae63e-3e6b-2a27-c904-c69073eecb0f.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4cbc563d-fb51-4659-86bd-c1acc7a87c04" Title="TraceLog Class" Url="html/be287c25-1107-b7e8-a3a0-c3d6d96eaf98.htm">
+        <HelpTOCNode Id="dd23a79c-d2e0-4471-b1e5-6d874b3d7ee5" Title="TraceLog Methods" Url="html/f5754de9-6626-db69-97ce-70588b38e60f.htm">
+          <HelpTOCNode Title="WriteCritical Method " Url="html/c150aada-b63e-c58a-4296-d5ee5cee1e3a.htm" />
+          <HelpTOCNode Title="WriteError Method " Url="html/e39645a1-ba6b-e324-7bae-f2f1ac262b55.htm" />
+          <HelpTOCNode Title="WriteInformation Method " Url="html/6818bbb9-ddaa-edca-24da-32413b9820fe.htm" />
+          <HelpTOCNode Title="WriteWarning Method " Url="html/9840f61d-afbd-5f53-fbab-59ea14bde7ca.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

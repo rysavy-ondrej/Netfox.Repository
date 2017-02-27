@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Add Method " Url="html/cde979f2-51a2-2992-3943-bfe214a9986f.htm" />
+    <HelpKINode Title="NDocumentSet(TDocument).Add Method " Url="html/4deba15e-ec20-d4a0-d6b9-207da6427d20.htm" />
+    <HelpKINode Title="NHashSet(TDocument).Add Method " Url="html/1774ade7-758d-72fb-4580-947a994e0a8e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Added enumeration member" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="AddedDocuments property" Url="html/4b33a120-5df9-0c15-fbff-bd42571738a9.htm" />
+  <HelpKINode Title="AddRange method" Url="html/2c0ea894-9e86-6bbd-62e9-5d896765214f.htm" />
+  <HelpKINode Title="AfterDocumentDeserialization field" Url="html/a6d7dd70-4b59-f9d6-fe0f-e8fd7fc3cc9e.htm" />
+  <HelpKINode Title="AfterDocumentDeserializationCallback delegate" Url="html/e50dce5f-7b41-7182-bc61-d58a84abfb7e.htm" />
+  <HelpKINode Title="Attach method" Url="html/d93833e5-7eea-d695-2bff-5f46fbd1c18f.htm" />
+  <HelpKINode Title="BeforeDocumentDeserialization field" Url="html/c593c6dc-df09-66dc-0346-494ba6f66ce5.htm" />
+  <HelpKINode Title="BeforeDocumentDeserializationCallback delegate" Url="html/7c0704ef-92cc-893d-56c9-d2b78224aec0.htm" />
+  <HelpKINode Title="Clear method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Clear Method " Url="html/79ebb4a6-9456-e7d3-5100-1411d07f7cab.htm" />
+    <HelpKINode Title="NHashSet(TDocument).Clear Method " Url="html/95309991-9462-a774-c1f7-5a1aa943b7bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Collection(Of TDocument) method" Url="html/514f6d0c-682c-7d1d-1725-e707ce583c1c.htm" />
+  <HelpKINode Title="Collection(Of TElement) method" Url="html/25f0e92a-b3fb-eb3d-4f9d-bcd7a636f019.htm" />
+  <HelpKINode Title="Collection&lt;TDocument&gt; method" Url="html/514f6d0c-682c-7d1d-1725-e707ce583c1c.htm" />
+  <HelpKINode Title="Collection&lt;TElement&gt; method" Url="html/25f0e92a-b3fb-eb3d-4f9d-bcd7a636f019.htm" />
+  <HelpKINode Title="CollectionChanged event" Url="html/289d350a-029c-9dda-92b2-70e099382fa9.htm" />
+  <HelpKINode Title="CollectionsEx class">
+    <HelpKINode Title="CollectionsEx Class" Url="html/8af86250-0ec8-1055-a453-6e9326a69b09.htm" />
+    <HelpKINode Title="about CollectionsEx class" Url="html/8af86250-0ec8-1055-a453-6e9326a69b09.htm" />
+    <HelpKINode Title="methods" Url="html/0c54c160-933f-3e6b-c756-99984f715851.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollectionsEx.Slice(Of T) method" Url="html/72478d94-ad5d-cb0d-7fec-b8eb0c7b8222.htm" />
+  <HelpKINode Title="CollectionsEx.Slice&lt;T&gt; method" Url="html/72478d94-ad5d-cb0d-7fec-b8eb0c7b8222.htm" />
+  <HelpKINode Title="ConfiguredUrl property" Url="html/9c812228-fed9-9b14-6d32-ad3810a829e0.htm" />
+  <HelpKINode Title="Contains method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Contains Method " Url="html/6f6f47b8-0b48-5dc0-660c-deaf6199f7ab.htm" />
+    <HelpKINode Title="NHashSet(TDocument).Contains Method " Url="html/3fb98db9-df94-b24c-73ec-72b2712473ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Context property">
+    <HelpKINode Title="NDocumentEntry.Context Property " Url="html/206433e9-a5b3-4966-b072-72559c8092ff.htm" />
+    <HelpKINode Title="NDocumentSet(TDocument).Context Property " Url="html/205e2574-b5cc-2b0b-30bf-bc9ba2d74ad8.htm" />
+    <HelpKINode Title="NObservableCollection(TDocument).Context Property " Url="html/2c3a3a73-fb74-cd27-7125-b0ec69ea0fe9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContextStatistics class">
+    <HelpKINode Title="ContextStatistics Class" Url="html/c64c6dd3-06b9-0199-9637-59b4d472570c.htm" />
+    <HelpKINode Title="about ContextStatistics class" Url="html/c64c6dd3-06b9-0199-9637-59b4d472570c.htm" />
+    <HelpKINode Title="constructor" Url="html/628cf46a-bbec-2696-a2b8-ec16caeb0863.htm" />
+    <HelpKINode Title="methods" Url="html/9e4d8708-9ea8-e7c4-a644-9ab5a614ff1a.htm" />
+    <HelpKINode Title="properties" Url="html/e32cf711-8815-3977-bd5e-2bb10c2c33e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContextStatistics.AddedDocuments property" Url="html/4b33a120-5df9-0c15-fbff-bd42571738a9.htm" />
+  <HelpKINode Title="ContextStatistics.ContextStatistics constructor" Url="html/628cf46a-bbec-2696-a2b8-ec16caeb0863.htm" />
+  <HelpKINode Title="ContextStatistics.DatabaseName property" Url="html/52ebaf28-d5bd-bddc-a188-692c7aa27077.htm" />
+  <HelpKINode Title="ContextStatistics.DeletedDocuments property" Url="html/536d7349-b083-0845-5aaf-0a3f6ce8a85e.htm" />
+  <HelpKINode Title="ContextStatistics.FullCleanUpExecCount property" Url="html/d24a67f7-edea-69a7-c82f-368e3dafd2d0.htm" />
+  <HelpKINode Title="ContextStatistics.LastCleanUp property" Url="html/7a60988d-6f2d-3351-a7d1-0d5a3d7225b9.htm" />
+  <HelpKINode Title="ContextStatistics.ModifiedDocuments property" Url="html/ec4963c8-5f71-a9a0-5570-4bc2f2354680.htm" />
+  <HelpKINode Title="ContextStatistics.PartialCleanUpExecCount property" Url="html/e6e23b00-e66d-59a8-152f-bd377befc03c.htm" />
+  <HelpKINode Title="ContextStatistics.Print method" Url="html/cb0f4c05-c352-eed3-c2e6-8a4db02ac6d6.htm" />
+  <HelpKINode Title="ContextStatistics.TotalCleanUpTime property" Url="html/604b69b4-3783-922b-3c6a-3fca03f08daf.htm" />
+  <HelpKINode Title="ContextStatistics.TotalReclaimed property" Url="html/621fe0ae-b826-aa0d-286f-6efe54033503.htm" />
+  <HelpKINode Title="ContextStatistics.UnchangedAllDocuments property" Url="html/00c77ea8-209d-af3d-bdfd-6e94c1f4f3e4.htm" />
+  <HelpKINode Title="ContextStatistics.UnchangedDocuments property" Url="html/75f94edd-3baa-904a-4c8f-a01a74e99a79.htm" />
+  <HelpKINode Title="ControlledPropertyChanged event">
+    <HelpKINode Title="IDocument.ControlledPropertyChanged Event" Url="html/0225aaf9-80df-350d-7fc3-68ccb2a305a2.htm" />
+    <HelpKINode Title="NDocumentAttribute.ControlledPropertyChanged Event" Url="html/4c483675-46e6-7595-5c1f-b9e6b13f4d07.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CopyTo method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).CopyTo Method " Url="html/b4f5fab3-4f75-e6f4-612c-f1728c55c166.htm" />
+    <HelpKINode Title="NHashSet(TDocument).CopyTo Method " Url="html/9cf2b1b6-6b16-ad7f-eb0b-b2e307fd7979.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Count property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Count Property " Url="html/2ebc1253-50a2-1ee2-b844-7849f26e4dcd.htm" />
+    <HelpKINode Title="NHashSet(TDocument).Count Property " Url="html/f784ce68-e960-fcb7-fbed-a1e462cd9442.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CountAsync method" Url="html/e7583323-6574-5c64-e26f-386c3cfff886.htm" />
+  <HelpKINode Title="Create method" Url="html/f6733444-0fce-ecc5-0a1c-696d9180f126.htm" />
+  <HelpKINode Title="CreateHashSet method" Url="html/867bff51-ef7c-cf98-5db3-960dd3c05d69.htm" />
+  <HelpKINode Title="CreateNew method" Url="html/840ae63e-3e6b-2a27-c904-c69073eecb0f.htm" />
+  <HelpKINode Title="CreateObject(Of TDocument) method" Url="html/650d8199-f589-364b-ea8c-3e95f0c280ce.htm" />
+  <HelpKINode Title="CreateObject&lt;TDocument&gt; method" Url="html/650d8199-f589-364b-ea8c-3e95f0c280ce.htm" />
+  <HelpKINode Title="CurrentValue property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).CurrentValue Property " Url="html/d8e6bd30-ee3a-af0e-a3aa-1df97916c3f9.htm" />
+    <HelpKINode Title="NPropertyEntry(TDocument, TProperty).CurrentValue Property " Url="html/22277582-0ba3-be7b-8a7c-0e7ac9803739.htm" />
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty).CurrentValue Property " Url="html/bb886ac2-d383-e09e-bf2b-6ea5dbad9892.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DatabaseName property">
+    <HelpKINode Title="ContextStatistics.DatabaseName Property " Url="html/52ebaf28-d5bd-bddc-a188-692c7aa27077.htm" />
+    <HelpKINode Title="NRepositoryContext.DatabaseName Property " Url="html/873adede-cd74-ace9-b664-a3b3c64b44bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteAllAsync method" Url="html/4e3e9a08-1c37-dfd6-2d44-dfcf339062a2.htm" />
+  <HelpKINode Title="DeleteAsync method" Url="html/2c63d014-3bf8-4b46-9c73-c93cf42e3fd1.htm" />
+  <HelpKINode Title="Deleted enumeration member" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="DeleteDatabaseAsync method" Url="html/2b9fead1-d9bf-9d3e-fe69-6870d3f35348.htm" />
+  <HelpKINode Title="DeletedDocuments property" Url="html/536d7349-b083-0845-5aaf-0a3f6ce8a85e.htm" />
+  <HelpKINode Title="Deserialize method">
+    <HelpKINode Title="NDocumentSerializer(TDocument).Deserialize Method " Url="html/9af6a9df-a014-5266-4539-e0827ee4d6af.htm" />
+    <HelpKINode Title="NDocumentSerializer.Deserialize Method " Url="html/3f5995b8-9932-81e2-9937-daaa70960341.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Detached enumeration member" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="Dispose method" Url="html/f47aef33-08fd-7baa-177e-93de382b1808.htm" />
+  <HelpKINode Title="Document property">
+    <HelpKINode Title="NDocumentEntry(TDocument).Document Property " Url="html/824b2762-8f5f-beb2-f0b7-6f5d7a6edb67.htm" />
+    <HelpKINode Title="NDocumentEntry.Document Property " Url="html/c3fd49b2-e0ee-5c8e-4b19-a36d25664637.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentEntry property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).DocumentEntry Property " Url="html/73a8f632-0a38-bd80-86a2-6bea7d938b92.htm" />
+    <HelpKINode Title="NPropertyEntry(TDocument, TProperty).DocumentEntry Property " Url="html/12da27e2-edfe-64dd-fb3f-641b6836f95d.htm" />
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty).DocumentEntry Property " Url="html/701d8465-1549-9caf-0b6b-f3877bc1e1fc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentFactory class">
+    <HelpKINode Title="DocumentFactory Class" Url="html/5d870329-7531-b258-18a0-90115ea097fe.htm" />
+    <HelpKINode Title="about DocumentFactory class" Url="html/5d870329-7531-b258-18a0-90115ea097fe.htm" />
+    <HelpKINode Title="methods" Url="html/524f87e5-a319-567a-022d-52f84aecb758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentFactory.CreateNew method" Url="html/840ae63e-3e6b-2a27-c904-c69073eecb0f.htm" />
+  <HelpKINode Title="DocumentState enumeration" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="DocumentType property">
+    <HelpKINode Title="NCollectionAttribute.DocumentType Property " Url="html/111e5aa9-c8f8-75bc-c396-d7b452631eb6.htm" />
+    <HelpKINode Title="NDocumentEntry(TDocument).DocumentType Property " Url="html/6d9962d7-f8c1-b9bc-36be-56691ae86c85.htm" />
+    <HelpKINode Title="NDocumentEntry.DocumentType Property " Url="html/86be285f-a879-d25c-a957-e4d8f6175374.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ElementType property" Url="html/14c5d528-13c5-84b6-d8aa-bc7d1a3f55a1.htm" />
+  <HelpKINode Title="Entry(Of TDocument) method" Url="html/4be75f46-a1bb-7963-b815-cc367750cdcb.htm" />
+  <HelpKINode Title="Entry&lt;TDocument&gt; method" Url="html/4be75f46-a1bb-7963-b815-cc367750cdcb.htm" />
+  <HelpKINode Title="ExceptWith method" Url="html/72f9a5ea-ef92-5422-05a2-388cdfdae626.htm" />
+  <HelpKINode Title="Expression property" Url="html/37f12a8c-05bd-e273-0f5e-9feb993b8c94.htm" />
+  <HelpKINode Title="FindAsync method">
+    <HelpKINode Title="NDocumentSet(TDocument).FindAsync Method " Url="html/97b417f6-d34e-d3c3-5b66-1bc2ac5c3279.htm" />
+    <HelpKINode Title="NObservableCollection(TDocument).FindAsync Method " Url="html/59674034-6e31-3efe-9649-8d67878e91ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindControlledProperties method" Url="html/080ed9cc-0284-bd4d-a23d-615cd9d7c34d.htm" />
+  <HelpKINode Title="FindObjectByIdAsync(Of TDocument) method" Url="html/785a8c32-82b5-ace7-2838-f4da929badc0.htm" />
+  <HelpKINode Title="FindObjectByIdAsync&lt;TDocument&gt; method" Url="html/785a8c32-82b5-ace7-2838-f4da929badc0.htm" />
+  <HelpKINode Title="FindObjectsByIdsAsync(Of TDocument) method" Url="html/61518350-0228-8d71-1aaf-bf8040c46904.htm" />
+  <HelpKINode Title="FindObjectsByIdsAsync&lt;TDocument&gt; method" Url="html/61518350-0228-8d71-1aaf-bf8040c46904.htm" />
+  <HelpKINode Title="FindOneAsync method" Url="html/398b974c-0a8e-26cc-311e-aff61c4b93d8.htm" />
+  <HelpKINode Title="FullCleanUpExecCount property" Url="html/d24a67f7-edea-69a7-c82f-368e3dafd2d0.htm" />
+  <HelpKINode Title="GetCollectionChangeHandler method" Url="html/d3f0b882-4c8f-8dcd-ac96-3ce45fc4177a.htm" />
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).GetEnumerator Method " Url="html/f83b6bc5-2581-e776-582e-bbf62c163090.htm" />
+    <HelpKINode Title="NDocumentSet(TDocument).GetEnumerator Method " Url="html/9bab4f15-affd-12d5-0cbd-d4ffc36da1b1.htm" />
+    <HelpKINode Title="NHashSet(TDocument).GetEnumerator Method " Url="html/207a2d7f-1c53-4722-5bb2-dafbb7414f40.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetPropertyValue method">
+    <HelpKINode Title="IDocument.GetPropertyValue Method " Url="html/b47f158c-8b26-455f-e00c-8c4158b19180.htm" />
+    <HelpKINode Title="NDocumentAttribute.GetPropertyValue Method " Url="html/a03ff3a7-2c7a-3eff-8208-c849440b2676.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetStatistics method" Url="html/f6d4838e-9d24-5185-a8e5-5bf67add9970.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="IDocument.Id Property " Url="html/947ea043-3b21-6520-30e1-e56e90952b98.htm" />
+    <HelpKINode Title="NDocumentAttribute.Id Property " Url="html/ea821dfb-8ba0-cb1a-9c87-ec2f453a3900.htm" />
+    <HelpKINode Title="NDocumentEntry.Id Property " Url="html/b44802c8-b331-15bb-5cc4-3f5802b0b79b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDocument interface">
+    <HelpKINode Title="IDocument Interface" Url="html/f39fbf2f-1fd1-5069-7772-25a2630afd2a.htm" />
+    <HelpKINode Title="about IDocument interface" Url="html/f39fbf2f-1fd1-5069-7772-25a2630afd2a.htm" />
+    <HelpKINode Title="events" Url="html/e0293d19-2142-9988-848f-935664046c61.htm" />
+    <HelpKINode Title="methods" Url="html/f1d4d4b2-5b54-18f0-ad39-c43dbb82a68e.htm" />
+    <HelpKINode Title="properties" Url="html/1a57da5f-b01a-77e0-eace-5f232b16347c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDocument.ControlledPropertyChanged event" Url="html/0225aaf9-80df-350d-7fc3-68ccb2a305a2.htm" />
+  <HelpKINode Title="IDocument.GetPropertyValue method" Url="html/b47f158c-8b26-455f-e00c-8c4158b19180.htm" />
+  <HelpKINode Title="IDocument.Id property" Url="html/947ea043-3b21-6520-30e1-e56e90952b98.htm" />
+  <HelpKINode Title="IDocument.Navigable property" Url="html/31fa5321-9d78-beb7-97d9-1c7f17bbf968.htm" />
+  <HelpKINode Title="IDocument.SetPropertyValue method" Url="html/ab33c1e0-d4d9-3f8c-e9cc-2ad15f3c7a8a.htm" />
+  <HelpKINode Title="IntersectWith method" Url="html/a56c9192-a194-9067-2381-cd62a1a8b77b.htm" />
+  <HelpKINode Title="IsBusy property" Url="html/f81e3740-00ae-8077-d294-791028e87db3.htm" />
+  <HelpKINode Title="IsLoaded property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).IsLoaded Property " Url="html/da571b23-4363-b9c9-5467-f6d886445c27.htm" />
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty).IsLoaded Property " Url="html/6362b6f8-d386-784f-de25-561d251cee6d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsProperSubsetOf method" Url="html/6ce1924f-39db-1235-dfb3-1baf1884eab3.htm" />
+  <HelpKINode Title="IsProperSupersetOf method" Url="html/c0bf076e-c5eb-fdec-4a3a-0a8a05d2f0c0.htm" />
+  <HelpKINode Title="IsReadOnly property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).IsReadOnly Property " Url="html/7b9460f6-7f45-ddc9-dfb5-1906f9aa7455.htm" />
+    <HelpKINode Title="NHashSet(TDocument).IsReadOnly Property " Url="html/61ee7b86-8417-8b35-dbba-56aba84491c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsSubsetOf method" Url="html/599113aa-3569-3899-7cc8-92ba91ce239a.htm" />
+  <HelpKINode Title="IsSupersetOf method" Url="html/9107e6f2-d085-e7fe-4d6a-71f10e50badf.htm" />
+  <HelpKINode Title="LastCleanUp property" Url="html/7a60988d-6f2d-3351-a7d1-0d5a3d7225b9.htm" />
+  <HelpKINode Title="Load method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Load Method " Url="html/1d20e206-5572-930f-84c7-e69844562244.htm" />
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty).Load Method " Url="html/c2082704-4e0b-c4e8-af65-5e2f202d0f20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Modified enumeration member" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="ModifiedDocuments property" Url="html/ec4963c8-5f71-a9a0-5570-4bc2f2354680.htm" />
+  <HelpKINode Title="MongoCollection property">
+    <HelpKINode Title="NDocumentSet(TDocument).MongoCollection Property " Url="html/e6fdbae9-58a5-3831-cb57-cdfc37c991d0.htm" />
+    <HelpKINode Title="NObservableCollection(TDocument).MongoCollection Property " Url="html/d39e2073-5f1a-14f2-13c0-c4254a31ed64.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MongoDatabase property" Url="html/76c3064e-ef03-7a36-6faa-21b46525e6b1.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Name Property " Url="html/a62049f7-a74e-3fa6-d864-f663eebc15ed.htm" />
+    <HelpKINode Title="NDocumentSet(TDocument).Name Property " Url="html/fe9aa030-9e95-b028-49d8-f69316a5ea66.htm" />
+    <HelpKINode Title="NObservableCollection(TDocument).Name Property " Url="html/dd01cb21-2e65-839e-26c3-654024c3e611.htm" />
+    <HelpKINode Title="NPropertyEntry(TDocument, TProperty).Name Property " Url="html/84f9dda4-4256-57a7-add7-83b487eae0f1.htm" />
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty).Name Property " Url="html/4e269c96-c045-065d-bbf3-7060fe60adfb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Navigable property">
+    <HelpKINode Title="IDocument.Navigable Property " Url="html/31fa5321-9d78-beb7-97d9-1c7f17bbf968.htm" />
+    <HelpKINode Title="NDocumentAttribute.Navigable Property " Url="html/c18addc8-62e3-8c28-fb0f-30b738064f81.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NCollectionAttribute class">
+    <HelpKINode Title="NCollectionAttribute Class" Url="html/95cbde59-044c-9b9a-4b9d-d0fed11910b5.htm" />
+    <HelpKINode Title="about NCollectionAttribute class" Url="html/95cbde59-044c-9b9a-4b9d-d0fed11910b5.htm" />
+    <HelpKINode Title="constructor" Url="html/db22f3d2-1135-b1ff-10f6-ab3d94ece5b8.htm" />
+    <HelpKINode Title="methods" Url="html/fd0d3628-621e-7b7d-8afb-f3c258e9cfc5.htm" />
+    <HelpKINode Title="properties" Url="html/b539087f-97c5-07ab-9e67-25bb4470dd56.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NCollectionAttribute.CreateHashSet method" Url="html/867bff51-ef7c-cf98-5db3-960dd3c05d69.htm" />
+  <HelpKINode Title="NCollectionAttribute.DocumentType property" Url="html/111e5aa9-c8f8-75bc-c396-d7b452631eb6.htm" />
+  <HelpKINode Title="NCollectionAttribute.NCollectionAttribute constructor" Url="html/db22f3d2-1135-b1ff-10f6-ab3d94ece5b8.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement) class">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement) Class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+    <HelpKINode Title="about NCollectionEntry(Of TDocument, TElement) class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+    <HelpKINode Title="methods" Url="html/d87e6d96-2599-0ba2-9d1c-bc8ff9f73420.htm" />
+    <HelpKINode Title="properties" Url="html/065188bf-4408-2b75-765f-404aa0076a03.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Add method" Url="html/cde979f2-51a2-2992-3943-bfe214a9986f.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Clear method" Url="html/79ebb4a6-9456-e7d3-5100-1411d07f7cab.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Contains method" Url="html/6f6f47b8-0b48-5dc0-660c-deaf6199f7ab.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).CopyTo method" Url="html/b4f5fab3-4f75-e6f4-612c-f1728c55c166.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Count property" Url="html/2ebc1253-50a2-1ee2-b844-7849f26e4dcd.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).CurrentValue property" Url="html/d8e6bd30-ee3a-af0e-a3aa-1df97916c3f9.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).DocumentEntry property" Url="html/73a8f632-0a38-bd80-86a2-6bea7d938b92.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).GetEnumerator method" Url="html/f83b6bc5-2581-e776-582e-bbf62c163090.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).IsLoaded property" Url="html/da571b23-4363-b9c9-5467-f6d886445c27.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).IsReadOnly property" Url="html/7b9460f6-7f45-ddc9-dfb5-1906f9aa7455.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Load method" Url="html/1d20e206-5572-930f-84c7-e69844562244.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Name property" Url="html/a62049f7-a74e-3fa6-d864-f663eebc15ed.htm" />
+  <HelpKINode Title="NCollectionEntry(Of TDocument, TElement).Remove method" Url="html/70566e0e-8d1b-8174-2652-4ed26edee9e2.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt; class">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement) Class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+    <HelpKINode Title="about NCollectionEntry&lt;TDocument, TElement&gt; class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+    <HelpKINode Title="methods" Url="html/d87e6d96-2599-0ba2-9d1c-bc8ff9f73420.htm" />
+    <HelpKINode Title="properties" Url="html/065188bf-4408-2b75-765f-404aa0076a03.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Add method" Url="html/cde979f2-51a2-2992-3943-bfe214a9986f.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Clear method" Url="html/79ebb4a6-9456-e7d3-5100-1411d07f7cab.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Contains method" Url="html/6f6f47b8-0b48-5dc0-660c-deaf6199f7ab.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.CopyTo method" Url="html/b4f5fab3-4f75-e6f4-612c-f1728c55c166.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Count property" Url="html/2ebc1253-50a2-1ee2-b844-7849f26e4dcd.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.CurrentValue property" Url="html/d8e6bd30-ee3a-af0e-a3aa-1df97916c3f9.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.DocumentEntry property" Url="html/73a8f632-0a38-bd80-86a2-6bea7d938b92.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.GetEnumerator method" Url="html/f83b6bc5-2581-e776-582e-bbf62c163090.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.IsLoaded property" Url="html/da571b23-4363-b9c9-5467-f6d886445c27.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.IsReadOnly property" Url="html/7b9460f6-7f45-ddc9-dfb5-1906f9aa7455.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Load method" Url="html/1d20e206-5572-930f-84c7-e69844562244.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Name property" Url="html/a62049f7-a74e-3fa6-d864-f663eebc15ed.htm" />
+  <HelpKINode Title="NCollectionEntry&lt;TDocument, TElement&gt;.Remove method" Url="html/70566e0e-8d1b-8174-2652-4ed26edee9e2.htm" />
+  <HelpKINode Title="NDocumentAttribute class">
+    <HelpKINode Title="NDocumentAttribute Class" Url="html/8b49e8b1-b35f-53e5-bf45-7a2487b0baed.htm" />
+    <HelpKINode Title="about NDocumentAttribute class" Url="html/8b49e8b1-b35f-53e5-bf45-7a2487b0baed.htm" />
+    <HelpKINode Title="constructor" Url="html/fd05b53b-481f-ee01-e25f-2f3c8c39ff3d.htm" />
+    <HelpKINode Title="events" Url="html/a869ec81-d013-0e2c-f0db-241f654e80a6.htm" />
+    <HelpKINode Title="methods" Url="html/9fd37ca7-143d-c315-3b8a-344057851533.htm" />
+    <HelpKINode Title="properties" Url="html/08af768d-a1e6-bc9a-e668-f99aa4910dbe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentAttribute.ControlledPropertyChanged event" Url="html/4c483675-46e6-7595-5c1f-b9e6b13f4d07.htm" />
+  <HelpKINode Title="NDocumentAttribute.FindControlledProperties method" Url="html/080ed9cc-0284-bd4d-a23d-615cd9d7c34d.htm" />
+  <HelpKINode Title="NDocumentAttribute.GetPropertyValue method" Url="html/a03ff3a7-2c7a-3eff-8208-c849440b2676.htm" />
+  <HelpKINode Title="NDocumentAttribute.Id property" Url="html/ea821dfb-8ba0-cb1a-9c87-ec2f453a3900.htm" />
+  <HelpKINode Title="NDocumentAttribute.Navigable property" Url="html/c18addc8-62e3-8c28-fb0f-30b738064f81.htm" />
+  <HelpKINode Title="NDocumentAttribute.NDocumentAttribute constructor" Url="html/fd05b53b-481f-ee01-e25f-2f3c8c39ff3d.htm" />
+  <HelpKINode Title="NDocumentAttribute.OnValueChanged method" Url="html/0d018b93-d809-6d4c-404e-19bc5884be5d.htm" />
+  <HelpKINode Title="NDocumentAttribute.ProvideAspects method" Url="html/22cf638f-1e82-353f-66bf-e22ed3df9bef.htm" />
+  <HelpKINode Title="NDocumentAttribute.RuntimeInitializeInstance method" Url="html/963a4861-d39c-af6b-e231-eb3f72f4f0fa.htm" />
+  <HelpKINode Title="NDocumentAttribute.SetPropertyValue method" Url="html/4b0888c4-d75d-2980-23d2-dc064d9084f3.htm" />
+  <HelpKINode Title="NDocumentEntry class">
+    <HelpKINode Title="NDocumentEntry Class" Url="html/3b3433ba-430e-c12e-287d-7ea4e807b089.htm" />
+    <HelpKINode Title="about NDocumentEntry class" Url="html/3b3433ba-430e-c12e-287d-7ea4e807b089.htm" />
+    <HelpKINode Title="methods" Url="html/7a7c3aed-34de-7ca5-a6ae-44817f335388.htm" />
+    <HelpKINode Title="properties" Url="html/01007935-85f7-2d58-9799-dbe1b8bfb8be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentEntry(Of TDocument) class">
+    <HelpKINode Title="NDocumentEntry(TDocument) Class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+    <HelpKINode Title="about NDocumentEntry(Of TDocument) class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+    <HelpKINode Title="methods" Url="html/731cd80a-5318-8757-b928-ffbef9451255.htm" />
+    <HelpKINode Title="properties" Url="html/826dce46-a7d7-eadf-ed37-af7464d8e63d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentEntry(Of TDocument).Collection(Of TElement) method" Url="html/25f0e92a-b3fb-eb3d-4f9d-bcd7a636f019.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).Document property" Url="html/824b2762-8f5f-beb2-f0b7-6f5d7a6edb67.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).DocumentType property" Url="html/6d9962d7-f8c1-b9bc-36be-56691ae86c85.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).Property(Of TProperty) method" Url="html/3f0a4e2e-26b2-0bca-a259-0bea67151a62.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).Reference(Of TProperty) method" Url="html/dc7e5883-6119-596f-0653-eb0730c1c761.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).ReloadAsync method" Url="html/044f7c58-ed2b-015d-84c5-57a7a049b430.htm" />
+  <HelpKINode Title="NDocumentEntry(Of TDocument).SaveChangesAsync method" Url="html/937cb681-4d3c-7d86-1168-4563aa2e10e5.htm" />
+  <HelpKINode Title="NDocumentEntry.Context property" Url="html/206433e9-a5b3-4966-b072-72559c8092ff.htm" />
+  <HelpKINode Title="NDocumentEntry.Document property" Url="html/c3fd49b2-e0ee-5c8e-4b19-a36d25664637.htm" />
+  <HelpKINode Title="NDocumentEntry.DocumentType property" Url="html/86be285f-a879-d25c-a957-e4d8f6175374.htm" />
+  <HelpKINode Title="NDocumentEntry.GetCollectionChangeHandler method" Url="html/d3f0b882-4c8f-8dcd-ac96-3ce45fc4177a.htm" />
+  <HelpKINode Title="NDocumentEntry.Id property" Url="html/b44802c8-b331-15bb-5cc4-3f5802b0b79b.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt; class">
+    <HelpKINode Title="NDocumentEntry(TDocument) Class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+    <HelpKINode Title="about NDocumentEntry&lt;TDocument&gt; class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+    <HelpKINode Title="methods" Url="html/731cd80a-5318-8757-b928-ffbef9451255.htm" />
+    <HelpKINode Title="properties" Url="html/826dce46-a7d7-eadf-ed37-af7464d8e63d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.Collection&lt;TElement&gt; method" Url="html/25f0e92a-b3fb-eb3d-4f9d-bcd7a636f019.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.Document property" Url="html/824b2762-8f5f-beb2-f0b7-6f5d7a6edb67.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.DocumentType property" Url="html/6d9962d7-f8c1-b9bc-36be-56691ae86c85.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.Property&lt;TProperty&gt; method" Url="html/3f0a4e2e-26b2-0bca-a259-0bea67151a62.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.Reference&lt;TProperty&gt; method" Url="html/dc7e5883-6119-596f-0653-eb0730c1c761.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.ReloadAsync method" Url="html/044f7c58-ed2b-015d-84c5-57a7a049b430.htm" />
+  <HelpKINode Title="NDocumentEntry&lt;TDocument&gt;.SaveChangesAsync method" Url="html/937cb681-4d3c-7d86-1168-4563aa2e10e5.htm" />
+  <HelpKINode Title="NDocumentSerializer class">
+    <HelpKINode Title="NDocumentSerializer Class" Url="html/3f67a2e0-f6bf-dfd9-c26d-f46f4f837004.htm" />
+    <HelpKINode Title="about NDocumentSerializer class" Url="html/3f67a2e0-f6bf-dfd9-c26d-f46f4f837004.htm" />
+    <HelpKINode Title="constructor" Url="html/94bdadc0-4bfc-0a0b-482b-68f3a57c3c5e.htm" />
+    <HelpKINode Title="fields" Url="html/83d3eb7a-0f58-476c-087d-35db81417af2.htm" />
+    <HelpKINode Title="methods" Url="html/f656ab2e-e6f3-de7e-2873-fc7ca778bb7f.htm" />
+    <HelpKINode Title="properties" Url="html/05719734-e76a-2d8a-dd46-5340ccb3c1b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentSerializer(Of TDocument) class">
+    <HelpKINode Title="NDocumentSerializer(TDocument) Class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+    <HelpKINode Title="about NDocumentSerializer(Of TDocument) class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+    <HelpKINode Title="constructor" Url="html/2d2bffa8-cdf5-1678-dc8d-fe31e6b9844d.htm" />
+    <HelpKINode Title="fields" Url="html/91679be5-40bd-f49f-3fea-c0f503afe41b.htm" />
+    <HelpKINode Title="methods" Url="html/3d9caddf-15d8-7f9d-7e37-9bf0d337d87b.htm" />
+    <HelpKINode Title="properties" Url="html/151df292-cb3f-3407-f93f-89a15496cb8e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentSerializer(Of TDocument).Deserialize method" Url="html/9af6a9df-a014-5266-4539-e0827ee4d6af.htm" />
+  <HelpKINode Title="NDocumentSerializer(Of TDocument).NDocumentSerializer constructor" Url="html/2d2bffa8-cdf5-1678-dc8d-fe31e6b9844d.htm" />
+  <HelpKINode Title="NDocumentSerializer(Of TDocument).Serialize method" Url="html/3d84c638-4bd2-d761-0276-d4c167bb950e.htm" />
+  <HelpKINode Title="NDocumentSerializer(Of TDocument).TryGetMemberSerializationInfo method" Url="html/73a93290-3da9-170a-6d48-87027d0933f7.htm" />
+  <HelpKINode Title="NDocumentSerializer(Of TDocument).ValueType property" Url="html/a58c879f-4988-eb2a-ce65-4ba95107e712.htm" />
+  <HelpKINode Title="NDocumentSerializer.AfterDocumentDeserialization field" Url="html/a6d7dd70-4b59-f9d6-fe0f-e8fd7fc3cc9e.htm" />
+  <HelpKINode Title="NDocumentSerializer.BeforeDocumentDeserialization field" Url="html/c593c6dc-df09-66dc-0346-494ba6f66ce5.htm" />
+  <HelpKINode Title="NDocumentSerializer.Deserialize method" Url="html/3f5995b8-9932-81e2-9937-daaa70960341.htm" />
+  <HelpKINode Title="NDocumentSerializer.NDocumentSerializer constructor" Url="html/94bdadc0-4bfc-0a0b-482b-68f3a57c3c5e.htm" />
+  <HelpKINode Title="NDocumentSerializer.ObjectIdArraySerializer field" Url="html/0918cb9b-902f-e3d8-caf8-5db931406414.htm" />
+  <HelpKINode Title="NDocumentSerializer.Serialize method" Url="html/01c60c06-8ff0-71bb-433f-2c8c73b2dd60.htm" />
+  <HelpKINode Title="NDocumentSerializer.ValueType property" Url="html/81724d27-8ba6-1cd6-1663-8d833b0f373f.htm" />
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt; class">
+    <HelpKINode Title="NDocumentSerializer(TDocument) Class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+    <HelpKINode Title="about NDocumentSerializer&lt;TDocument&gt; class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+    <HelpKINode Title="constructor" Url="html/2d2bffa8-cdf5-1678-dc8d-fe31e6b9844d.htm" />
+    <HelpKINode Title="fields" Url="html/91679be5-40bd-f49f-3fea-c0f503afe41b.htm" />
+    <HelpKINode Title="methods" Url="html/3d9caddf-15d8-7f9d-7e37-9bf0d337d87b.htm" />
+    <HelpKINode Title="properties" Url="html/151df292-cb3f-3407-f93f-89a15496cb8e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt;.Deserialize method" Url="html/9af6a9df-a014-5266-4539-e0827ee4d6af.htm" />
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt;.NDocumentSerializer constructor" Url="html/2d2bffa8-cdf5-1678-dc8d-fe31e6b9844d.htm" />
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt;.Serialize method" Url="html/3d84c638-4bd2-d761-0276-d4c167bb950e.htm" />
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt;.TryGetMemberSerializationInfo method" Url="html/73a93290-3da9-170a-6d48-87027d0933f7.htm" />
+  <HelpKINode Title="NDocumentSerializer&lt;TDocument&gt;.ValueType property" Url="html/a58c879f-4988-eb2a-ce65-4ba95107e712.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument) class">
+    <HelpKINode Title="NDocumentSet(TDocument) Class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+    <HelpKINode Title="about NDocumentSet(Of TDocument) class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+    <HelpKINode Title="methods" Url="html/880adba6-322e-e66f-5d82-a98823993529.htm" />
+    <HelpKINode Title="properties" Url="html/3fb90bb5-85f2-7dae-cc5f-b91812d07682.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentSet(Of TDocument).Add method" Url="html/4deba15e-ec20-d4a0-d6b9-207da6427d20.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).AddRange method" Url="html/2c0ea894-9e86-6bbd-62e9-5d896765214f.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Attach method" Url="html/d93833e5-7eea-d695-2bff-5f46fbd1c18f.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Context property" Url="html/205e2574-b5cc-2b0b-30bf-bc9ba2d74ad8.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).CountAsync method" Url="html/e7583323-6574-5c64-e26f-386c3cfff886.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).DeleteAllAsync method" Url="html/4e3e9a08-1c37-dfd6-2d44-dfcf339062a2.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).DeleteAsync method" Url="html/2c63d014-3bf8-4b46-9c73-c93cf42e3fd1.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).ElementType property" Url="html/14c5d528-13c5-84b6-d8aa-bc7d1a3f55a1.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Expression property" Url="html/37f12a8c-05bd-e273-0f5e-9feb993b8c94.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).FindAsync method" Url="html/97b417f6-d34e-d3c3-5b66-1bc2ac5c3279.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).FindOneAsync method" Url="html/398b974c-0a8e-26cc-311e-aff61c4b93d8.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).GetEnumerator method" Url="html/9bab4f15-affd-12d5-0cbd-d4ffc36da1b1.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).MongoCollection property" Url="html/e6fdbae9-58a5-3831-cb57-cdfc37c991d0.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Name property" Url="html/fe9aa030-9e95-b028-49d8-f69316a5ea66.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Provider property" Url="html/3988884a-fa3b-db80-1b0a-5ad9a90faa07.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Remove method" Url="html/b485c21f-8619-f4e8-d78f-4e1e21e42cc0.htm" />
+  <HelpKINode Title="NDocumentSet(Of TDocument).Update method" Url="html/e69e8ad7-aaad-c4cf-f674-3bc7dba8136a.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt; class">
+    <HelpKINode Title="NDocumentSet(TDocument) Class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+    <HelpKINode Title="about NDocumentSet&lt;TDocument&gt; class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+    <HelpKINode Title="methods" Url="html/880adba6-322e-e66f-5d82-a98823993529.htm" />
+    <HelpKINode Title="properties" Url="html/3fb90bb5-85f2-7dae-cc5f-b91812d07682.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Add method" Url="html/4deba15e-ec20-d4a0-d6b9-207da6427d20.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.AddRange method" Url="html/2c0ea894-9e86-6bbd-62e9-5d896765214f.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Attach method" Url="html/d93833e5-7eea-d695-2bff-5f46fbd1c18f.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Context property" Url="html/205e2574-b5cc-2b0b-30bf-bc9ba2d74ad8.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.CountAsync method" Url="html/e7583323-6574-5c64-e26f-386c3cfff886.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.DeleteAllAsync method" Url="html/4e3e9a08-1c37-dfd6-2d44-dfcf339062a2.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.DeleteAsync method" Url="html/2c63d014-3bf8-4b46-9c73-c93cf42e3fd1.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.ElementType property" Url="html/14c5d528-13c5-84b6-d8aa-bc7d1a3f55a1.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Expression property" Url="html/37f12a8c-05bd-e273-0f5e-9feb993b8c94.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.FindAsync method" Url="html/97b417f6-d34e-d3c3-5b66-1bc2ac5c3279.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.FindOneAsync method" Url="html/398b974c-0a8e-26cc-311e-aff61c4b93d8.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.GetEnumerator method" Url="html/9bab4f15-affd-12d5-0cbd-d4ffc36da1b1.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.MongoCollection property" Url="html/e6fdbae9-58a5-3831-cb57-cdfc37c991d0.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Name property" Url="html/fe9aa030-9e95-b028-49d8-f69316a5ea66.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Provider property" Url="html/3988884a-fa3b-db80-1b0a-5ad9a90faa07.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Remove method" Url="html/b485c21f-8619-f4e8-d78f-4e1e21e42cc0.htm" />
+  <HelpKINode Title="NDocumentSet&lt;TDocument&gt;.Update method" Url="html/e69e8ad7-aaad-c4cf-f674-3bc7dba8136a.htm" />
+  <HelpKINode Title="Netfox.Repository namespace" Url="html/baa52a74-c444-58d5-ceff-00c0e3bfb6b6.htm" />
+  <HelpKINode Title="Netfox.Repository.Attributes namespace" Url="html/749ec876-8cc3-2791-4a2d-892df2f0f489.htm" />
+  <HelpKINode Title="Netfox.Repository.Attributes.NCollectionAttribute class" Url="html/95cbde59-044c-9b9a-4b9d-d0fed11910b5.htm" />
+  <HelpKINode Title="Netfox.Repository.Attributes.NDocumentAttribute class" Url="html/8b49e8b1-b35f-53e5-bf45-7a2487b0baed.htm" />
+  <HelpKINode Title="Netfox.Repository.Attributes.NReferenceAttribute class" Url="html/9b23b19b-9312-29f7-6e52-b701e1d59bff.htm" />
+  <HelpKINode Title="Netfox.Repository.Attributes.NValueAttribute class" Url="html/9191ca13-2a47-4f88-ebbf-c08433a7ff80.htm" />
+  <HelpKINode Title="Netfox.Repository.ContextStatistics class" Url="html/c64c6dd3-06b9-0199-9637-59b4d472570c.htm" />
+  <HelpKINode Title="Netfox.Repository.DocumentState enumeration" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="Netfox.Repository.IDocument interface" Url="html/f39fbf2f-1fd1-5069-7772-25a2630afd2a.htm" />
+  <HelpKINode Title="Netfox.Repository.NCollectionEntry(Of TDocument, TElement) class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+  <HelpKINode Title="Netfox.Repository.NCollectionEntry&lt;TDocument, TElement&gt; class" Url="html/487db742-fecb-5a30-2d63-9edf2edd5f44.htm" />
+  <HelpKINode Title="Netfox.Repository.NDocumentEntry class" Url="html/3b3433ba-430e-c12e-287d-7ea4e807b089.htm" />
+  <HelpKINode Title="Netfox.Repository.NDocumentEntry(Of TDocument) class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+  <HelpKINode Title="Netfox.Repository.NDocumentEntry&lt;TDocument&gt; class" Url="html/4b5fd7a0-b02d-efec-17b0-76c002300706.htm" />
+  <HelpKINode Title="Netfox.Repository.NDocumentSet(Of TDocument) class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+  <HelpKINode Title="Netfox.Repository.NDocumentSet&lt;TDocument&gt; class" Url="html/2186a1dc-67c9-f4f8-1e1b-45f219fb2065.htm" />
+  <HelpKINode Title="Netfox.Repository.NHashSet(Of TDocument) class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+  <HelpKINode Title="Netfox.Repository.NHashSet&lt;TDocument&gt; class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+  <HelpKINode Title="Netfox.Repository.NObservableCollection(Of TDocument) class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+  <HelpKINode Title="Netfox.Repository.NObservableCollection&lt;TDocument&gt; class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+  <HelpKINode Title="Netfox.Repository.NPropertyEntry(Of TDocument, TProperty) class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+  <HelpKINode Title="Netfox.Repository.NPropertyEntry&lt;TDocument, TProperty&gt; class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+  <HelpKINode Title="Netfox.Repository.NReferenceEntry(Of TDocument, TProperty) class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+  <HelpKINode Title="Netfox.Repository.NReferenceEntry&lt;TDocument, TProperty&gt; class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+  <HelpKINode Title="Netfox.Repository.NRepositoryContext class" Url="html/da26987c-8268-1a26-7df2-98433cfc3402.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization namespace" Url="html/809ea0a6-b9f3-923f-9b2d-6a158109d0f0.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization.AfterDocumentDeserializationCallback delegate" Url="html/e50dce5f-7b41-7182-bc61-d58a84abfb7e.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization.BeforeDocumentDeserializationCallback delegate" Url="html/7c0704ef-92cc-893d-56c9-d2b78224aec0.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization.NDocumentSerializer class" Url="html/3f67a2e0-f6bf-dfd9-c26d-f46f4f837004.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization.NDocumentSerializer(Of TDocument) class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+  <HelpKINode Title="Netfox.Repository.Serialization.NDocumentSerializer&lt;TDocument&gt; class" Url="html/aeba43f2-f80a-6cb1-caee-3b5e952d6d10.htm" />
+  <HelpKINode Title="Netfox.Repository.Utils namespace" Url="html/a95ceba3-805f-4141-841e-56da7602f8f3.htm" />
+  <HelpKINode Title="Netfox.Repository.Utils.CollectionsEx class" Url="html/8af86250-0ec8-1055-a453-6e9326a69b09.htm" />
+  <HelpKINode Title="Netfox.Repository.Utils.DocumentFactory class" Url="html/5d870329-7531-b258-18a0-90115ea097fe.htm" />
+  <HelpKINode Title="Netfox.Repository.Utils.TraceLog class" Url="html/be287c25-1107-b7e8-a3a0-c3d6d96eaf98.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument) class">
+    <HelpKINode Title="NHashSet(TDocument) Class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+    <HelpKINode Title="about NHashSet(Of TDocument) class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+    <HelpKINode Title="constructor" Url="html/246f28f2-5a75-7053-a325-b252c8d1384e.htm" />
+    <HelpKINode Title="events" Url="html/d94805f8-2b54-01f9-8d10-4741791fa69d.htm" />
+    <HelpKINode Title="methods" Url="html/548a2cda-1134-436a-2418-b1d0ef7569a7.htm" />
+    <HelpKINode Title="properties" Url="html/ea8fc244-262b-e7d6-3819-6042026f9aea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NHashSet(Of TDocument).Add method" Url="html/1774ade7-758d-72fb-4580-947a994e0a8e.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).Clear method" Url="html/95309991-9462-a774-c1f7-5a1aa943b7bd.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).CollectionChanged event" Url="html/289d350a-029c-9dda-92b2-70e099382fa9.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).Contains method" Url="html/3fb98db9-df94-b24c-73ec-72b2712473ab.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).CopyTo method" Url="html/9cf2b1b6-6b16-ad7f-eb0b-b2e307fd7979.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).Count property" Url="html/f784ce68-e960-fcb7-fbed-a1e462cd9442.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).ExceptWith method" Url="html/72f9a5ea-ef92-5422-05a2-388cdfdae626.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).GetEnumerator method" Url="html/207a2d7f-1c53-4722-5bb2-dafbb7414f40.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IntersectWith method" Url="html/a56c9192-a194-9067-2381-cd62a1a8b77b.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IsProperSubsetOf method" Url="html/6ce1924f-39db-1235-dfb3-1baf1884eab3.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IsProperSupersetOf method" Url="html/c0bf076e-c5eb-fdec-4a3a-0a8a05d2f0c0.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IsReadOnly property" Url="html/61ee7b86-8417-8b35-dbba-56aba84491c7.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IsSubsetOf method" Url="html/599113aa-3569-3899-7cc8-92ba91ce239a.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).IsSupersetOf method" Url="html/9107e6f2-d085-e7fe-4d6a-71f10e50badf.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).NHashSet constructor" Url="html/246f28f2-5a75-7053-a325-b252c8d1384e.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).Overlaps method" Url="html/61a816d5-7e29-1bb8-2e06-84b7eccf4b72.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).Remove method" Url="html/cf191fbc-7131-a329-4ac4-86390a19f5d4.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).SetEquals method" Url="html/99ddb757-56a5-9488-d786-2e96f760d7cd.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).SymmetricExceptWith method" Url="html/a536bffd-d526-f782-06cc-8a9fbcb6b4ef.htm" />
+  <HelpKINode Title="NHashSet(Of TDocument).UnionWith method" Url="html/e3a411d5-a8ca-17d0-7a04-a19c90c6ddd1.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt; class">
+    <HelpKINode Title="NHashSet(TDocument) Class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+    <HelpKINode Title="about NHashSet&lt;TDocument&gt; class" Url="html/86d51e99-d333-bfa9-b669-1147cf8fd981.htm" />
+    <HelpKINode Title="constructor" Url="html/246f28f2-5a75-7053-a325-b252c8d1384e.htm" />
+    <HelpKINode Title="events" Url="html/d94805f8-2b54-01f9-8d10-4741791fa69d.htm" />
+    <HelpKINode Title="methods" Url="html/548a2cda-1134-436a-2418-b1d0ef7569a7.htm" />
+    <HelpKINode Title="properties" Url="html/ea8fc244-262b-e7d6-3819-6042026f9aea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Add method" Url="html/1774ade7-758d-72fb-4580-947a994e0a8e.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Clear method" Url="html/95309991-9462-a774-c1f7-5a1aa943b7bd.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.CollectionChanged event" Url="html/289d350a-029c-9dda-92b2-70e099382fa9.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Contains method" Url="html/3fb98db9-df94-b24c-73ec-72b2712473ab.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.CopyTo method" Url="html/9cf2b1b6-6b16-ad7f-eb0b-b2e307fd7979.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Count property" Url="html/f784ce68-e960-fcb7-fbed-a1e462cd9442.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.ExceptWith method" Url="html/72f9a5ea-ef92-5422-05a2-388cdfdae626.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.GetEnumerator method" Url="html/207a2d7f-1c53-4722-5bb2-dafbb7414f40.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IntersectWith method" Url="html/a56c9192-a194-9067-2381-cd62a1a8b77b.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IsProperSubsetOf method" Url="html/6ce1924f-39db-1235-dfb3-1baf1884eab3.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IsProperSupersetOf method" Url="html/c0bf076e-c5eb-fdec-4a3a-0a8a05d2f0c0.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IsReadOnly property" Url="html/61ee7b86-8417-8b35-dbba-56aba84491c7.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IsSubsetOf method" Url="html/599113aa-3569-3899-7cc8-92ba91ce239a.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.IsSupersetOf method" Url="html/9107e6f2-d085-e7fe-4d6a-71f10e50badf.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.NHashSet constructor" Url="html/246f28f2-5a75-7053-a325-b252c8d1384e.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Overlaps method" Url="html/61a816d5-7e29-1bb8-2e06-84b7eccf4b72.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.Remove method" Url="html/cf191fbc-7131-a329-4ac4-86390a19f5d4.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.SetEquals method" Url="html/99ddb757-56a5-9488-d786-2e96f760d7cd.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.SymmetricExceptWith method" Url="html/a536bffd-d526-f782-06cc-8a9fbcb6b4ef.htm" />
+  <HelpKINode Title="NHashSet&lt;TDocument&gt;.UnionWith method" Url="html/e3a411d5-a8ca-17d0-7a04-a19c90c6ddd1.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument) class">
+    <HelpKINode Title="NObservableCollection(TDocument) Class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+    <HelpKINode Title="about NObservableCollection(Of TDocument) class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+    <HelpKINode Title="methods" Url="html/6233429a-d89c-9fd3-5551-23a02390eafc.htm" />
+    <HelpKINode Title="properties" Url="html/54ac2945-0887-5d22-49f8-822e8a5f671e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NObservableCollection(Of TDocument).Context property" Url="html/2c3a3a73-fb74-cd27-7125-b0ec69ea0fe9.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).FindAsync method" Url="html/59674034-6e31-3efe-9649-8d67878e91ba.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).IsBusy property" Url="html/f81e3740-00ae-8077-d294-791028e87db3.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).MongoCollection property" Url="html/d39e2073-5f1a-14f2-13c0-c4254a31ed64.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).Name property" Url="html/dd01cb21-2e65-839e-26c3-654024c3e611.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).Subscribe method" Url="html/15f6668c-cfce-82e0-d665-90ac008b87cd.htm" />
+  <HelpKINode Title="NObservableCollection(Of TDocument).TailCollectionFindAsync method" Url="html/e96f83d0-c51d-ee7a-5c30-25b35bf1a776.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt; class">
+    <HelpKINode Title="NObservableCollection(TDocument) Class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+    <HelpKINode Title="about NObservableCollection&lt;TDocument&gt; class" Url="html/cbdfeef9-78e9-b2d5-badd-5fc19bc66c43.htm" />
+    <HelpKINode Title="methods" Url="html/6233429a-d89c-9fd3-5551-23a02390eafc.htm" />
+    <HelpKINode Title="properties" Url="html/54ac2945-0887-5d22-49f8-822e8a5f671e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.Context property" Url="html/2c3a3a73-fb74-cd27-7125-b0ec69ea0fe9.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.FindAsync method" Url="html/59674034-6e31-3efe-9649-8d67878e91ba.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.IsBusy property" Url="html/f81e3740-00ae-8077-d294-791028e87db3.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.MongoCollection property" Url="html/d39e2073-5f1a-14f2-13c0-c4254a31ed64.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.Name property" Url="html/dd01cb21-2e65-839e-26c3-654024c3e611.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.Subscribe method" Url="html/15f6668c-cfce-82e0-d665-90ac008b87cd.htm" />
+  <HelpKINode Title="NObservableCollection&lt;TDocument&gt;.TailCollectionFindAsync method" Url="html/e96f83d0-c51d-ee7a-5c30-25b35bf1a776.htm" />
+  <HelpKINode Title="NPropertyEntry(Of TDocument, TProperty) class">
+    <HelpKINode Title="NPropertyEntry(TDocument, TProperty) Class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+    <HelpKINode Title="about NPropertyEntry(Of TDocument, TProperty) class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+    <HelpKINode Title="methods" Url="html/af119e8e-7728-a36a-0bfd-7d809b1a4387.htm" />
+    <HelpKINode Title="properties" Url="html/e3881886-8184-5e78-cae6-71ba77984d10.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NPropertyEntry(Of TDocument, TProperty).CurrentValue property" Url="html/22277582-0ba3-be7b-8a7c-0e7ac9803739.htm" />
+  <HelpKINode Title="NPropertyEntry(Of TDocument, TProperty).DocumentEntry property" Url="html/12da27e2-edfe-64dd-fb3f-641b6836f95d.htm" />
+  <HelpKINode Title="NPropertyEntry(Of TDocument, TProperty).Name property" Url="html/84f9dda4-4256-57a7-add7-83b487eae0f1.htm" />
+  <HelpKINode Title="NPropertyEntry&lt;TDocument, TProperty&gt; class">
+    <HelpKINode Title="NPropertyEntry(TDocument, TProperty) Class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+    <HelpKINode Title="about NPropertyEntry&lt;TDocument, TProperty&gt; class" Url="html/022235cf-878d-4f7c-1fac-7b6b147d80dc.htm" />
+    <HelpKINode Title="methods" Url="html/af119e8e-7728-a36a-0bfd-7d809b1a4387.htm" />
+    <HelpKINode Title="properties" Url="html/e3881886-8184-5e78-cae6-71ba77984d10.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NPropertyEntry&lt;TDocument, TProperty&gt;.CurrentValue property" Url="html/22277582-0ba3-be7b-8a7c-0e7ac9803739.htm" />
+  <HelpKINode Title="NPropertyEntry&lt;TDocument, TProperty&gt;.DocumentEntry property" Url="html/12da27e2-edfe-64dd-fb3f-641b6836f95d.htm" />
+  <HelpKINode Title="NPropertyEntry&lt;TDocument, TProperty&gt;.Name property" Url="html/84f9dda4-4256-57a7-add7-83b487eae0f1.htm" />
+  <HelpKINode Title="NReferenceAttribute class">
+    <HelpKINode Title="NReferenceAttribute Class" Url="html/9b23b19b-9312-29f7-6e52-b701e1d59bff.htm" />
+    <HelpKINode Title="about NReferenceAttribute class" Url="html/9b23b19b-9312-29f7-6e52-b701e1d59bff.htm" />
+    <HelpKINode Title="constructor" Url="html/81b1ee9b-5ea4-23e4-781d-d35d9d72eb36.htm" />
+    <HelpKINode Title="methods" Url="html/be16e7c4-faf0-83f7-b4a7-29e586a40673.htm" />
+    <HelpKINode Title="properties" Url="html/db92c44d-8aa5-7e94-6be0-864b36555b05.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NReferenceAttribute.NReferenceAttribute constructor" Url="html/81b1ee9b-5ea4-23e4-781d-d35d9d72eb36.htm" />
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty) class">
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty) Class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+    <HelpKINode Title="about NReferenceEntry(Of TDocument, TProperty) class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+    <HelpKINode Title="methods" Url="html/8b25e645-d3a1-5627-596c-bc8f6ea07994.htm" />
+    <HelpKINode Title="properties" Url="html/58c5f5d4-e4e2-e0b3-09eb-28d2ba4c39a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty).CurrentValue property" Url="html/bb886ac2-d383-e09e-bf2b-6ea5dbad9892.htm" />
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty).DocumentEntry property" Url="html/701d8465-1549-9caf-0b6b-f3877bc1e1fc.htm" />
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty).IsLoaded property" Url="html/6362b6f8-d386-784f-de25-561d251cee6d.htm" />
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty).Load method" Url="html/c2082704-4e0b-c4e8-af65-5e2f202d0f20.htm" />
+  <HelpKINode Title="NReferenceEntry(Of TDocument, TProperty).Name property" Url="html/4e269c96-c045-065d-bbf3-7060fe60adfb.htm" />
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt; class">
+    <HelpKINode Title="NReferenceEntry(TDocument, TProperty) Class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+    <HelpKINode Title="about NReferenceEntry&lt;TDocument, TProperty&gt; class" Url="html/d1605aea-d36e-cff0-834f-8e0605af48d9.htm" />
+    <HelpKINode Title="methods" Url="html/8b25e645-d3a1-5627-596c-bc8f6ea07994.htm" />
+    <HelpKINode Title="properties" Url="html/58c5f5d4-e4e2-e0b3-09eb-28d2ba4c39a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt;.CurrentValue property" Url="html/bb886ac2-d383-e09e-bf2b-6ea5dbad9892.htm" />
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt;.DocumentEntry property" Url="html/701d8465-1549-9caf-0b6b-f3877bc1e1fc.htm" />
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt;.IsLoaded property" Url="html/6362b6f8-d386-784f-de25-561d251cee6d.htm" />
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt;.Load method" Url="html/c2082704-4e0b-c4e8-af65-5e2f202d0f20.htm" />
+  <HelpKINode Title="NReferenceEntry&lt;TDocument, TProperty&gt;.Name property" Url="html/4e269c96-c045-065d-bbf3-7060fe60adfb.htm" />
+  <HelpKINode Title="NRepositoryContext class">
+    <HelpKINode Title="NRepositoryContext Class" Url="html/da26987c-8268-1a26-7df2-98433cfc3402.htm" />
+    <HelpKINode Title="about NRepositoryContext class" Url="html/da26987c-8268-1a26-7df2-98433cfc3402.htm" />
+    <HelpKINode Title="constructor" Url="html/aecb4409-24dd-1890-e2fb-a8d892a1c684.htm" />
+    <HelpKINode Title="methods" Url="html/53530a43-746f-527b-a063-e9a7ae960983.htm" />
+    <HelpKINode Title="properties" Url="html/2e9804b7-63fd-ac37-cfdd-1f034b8b7f1f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NRepositoryContext.Collection(Of TDocument) method" Url="html/514f6d0c-682c-7d1d-1725-e707ce583c1c.htm" />
+  <HelpKINode Title="NRepositoryContext.Collection&lt;TDocument&gt; method" Url="html/514f6d0c-682c-7d1d-1725-e707ce583c1c.htm" />
+  <HelpKINode Title="NRepositoryContext.ConfiguredUrl property" Url="html/9c812228-fed9-9b14-6d32-ad3810a829e0.htm" />
+  <HelpKINode Title="NRepositoryContext.Create method" Url="html/f6733444-0fce-ecc5-0a1c-696d9180f126.htm" />
+  <HelpKINode Title="NRepositoryContext.CreateObject(Of TDocument) method" Url="html/650d8199-f589-364b-ea8c-3e95f0c280ce.htm" />
+  <HelpKINode Title="NRepositoryContext.CreateObject&lt;TDocument&gt; method" Url="html/650d8199-f589-364b-ea8c-3e95f0c280ce.htm" />
+  <HelpKINode Title="NRepositoryContext.DatabaseName property" Url="html/873adede-cd74-ace9-b664-a3b3c64b44bd.htm" />
+  <HelpKINode Title="NRepositoryContext.DeleteDatabaseAsync method" Url="html/2b9fead1-d9bf-9d3e-fe69-6870d3f35348.htm" />
+  <HelpKINode Title="NRepositoryContext.Dispose method" Url="html/f47aef33-08fd-7baa-177e-93de382b1808.htm" />
+  <HelpKINode Title="NRepositoryContext.Entry(Of TDocument) method" Url="html/4be75f46-a1bb-7963-b815-cc367750cdcb.htm" />
+  <HelpKINode Title="NRepositoryContext.Entry&lt;TDocument&gt; method" Url="html/4be75f46-a1bb-7963-b815-cc367750cdcb.htm" />
+  <HelpKINode Title="NRepositoryContext.FindObjectByIdAsync(Of TDocument) method" Url="html/785a8c32-82b5-ace7-2838-f4da929badc0.htm" />
+  <HelpKINode Title="NRepositoryContext.FindObjectByIdAsync&lt;TDocument&gt; method" Url="html/785a8c32-82b5-ace7-2838-f4da929badc0.htm" />
+  <HelpKINode Title="NRepositoryContext.FindObjectsByIdsAsync(Of TDocument) method" Url="html/61518350-0228-8d71-1aaf-bf8040c46904.htm" />
+  <HelpKINode Title="NRepositoryContext.FindObjectsByIdsAsync&lt;TDocument&gt; method" Url="html/61518350-0228-8d71-1aaf-bf8040c46904.htm" />
+  <HelpKINode Title="NRepositoryContext.GetStatistics method" Url="html/f6d4838e-9d24-5185-a8e5-5bf67add9970.htm" />
+  <HelpKINode Title="NRepositoryContext.MongoDatabase property" Url="html/76c3064e-ef03-7a36-6faa-21b46525e6b1.htm" />
+  <HelpKINode Title="NRepositoryContext.NRepositoryContext constructor" Url="html/aecb4409-24dd-1890-e2fb-a8d892a1c684.htm" />
+  <HelpKINode Title="NRepositoryContext.ObservableCollection(Of TDocument) method" Url="html/f8bca8d1-89bc-db1b-47ff-8ee1f2e8c6e8.htm" />
+  <HelpKINode Title="NRepositoryContext.ObservableCollection&lt;TDocument&gt; method" Url="html/f8bca8d1-89bc-db1b-47ff-8ee1f2e8c6e8.htm" />
+  <HelpKINode Title="NRepositoryContext.RegisterDocumentTypes method" Url="html/d58fc02a-695f-55ed-d645-3175f64d73e8.htm" />
+  <HelpKINode Title="NRepositoryContext.ReloadDocumentAsync(Of TDocument) method" Url="html/a6296309-ee85-b33f-55c1-c4734dd16aec.htm" />
+  <HelpKINode Title="NRepositoryContext.ReloadDocumentAsync&lt;TDocument&gt; method" Url="html/a6296309-ee85-b33f-55c1-c4734dd16aec.htm" />
+  <HelpKINode Title="NRepositoryContext.SaveChangesAsync method" Url="html/224ef1ae-4eda-44d1-86f5-3ef0fae70b13.htm" />
+  <HelpKINode Title="NValueAttribute class">
+    <HelpKINode Title="NValueAttribute Class" Url="html/9191ca13-2a47-4f88-ebbf-c08433a7ff80.htm" />
+    <HelpKINode Title="about NValueAttribute class" Url="html/9191ca13-2a47-4f88-ebbf-c08433a7ff80.htm" />
+    <HelpKINode Title="constructor" Url="html/59382238-f386-3714-57b3-a50cd9fd9b2b.htm" />
+    <HelpKINode Title="methods" Url="html/a7b29d06-f2eb-cf3c-a5cb-cbb0a3cf16d1.htm" />
+    <HelpKINode Title="properties" Url="html/e1713173-eb6a-3232-d647-e7e187bd7bf3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NValueAttribute.NValueAttribute constructor" Url="html/59382238-f386-3714-57b3-a50cd9fd9b2b.htm" />
+  <HelpKINode Title="ObjectIdArraySerializer field" Url="html/0918cb9b-902f-e3d8-caf8-5db931406414.htm" />
+  <HelpKINode Title="ObservableCollection(Of TDocument) method" Url="html/f8bca8d1-89bc-db1b-47ff-8ee1f2e8c6e8.htm" />
+  <HelpKINode Title="ObservableCollection&lt;TDocument&gt; method" Url="html/f8bca8d1-89bc-db1b-47ff-8ee1f2e8c6e8.htm" />
+  <HelpKINode Title="OnValueChanged method" Url="html/0d018b93-d809-6d4c-404e-19bc5884be5d.htm" />
+  <HelpKINode Title="Overlaps method" Url="html/61a816d5-7e29-1bb8-2e06-84b7eccf4b72.htm" />
+  <HelpKINode Title="PartialCleanUpExecCount property" Url="html/e6e23b00-e66d-59a8-152f-bd377befc03c.htm" />
+  <HelpKINode Title="Print method" Url="html/cb0f4c05-c352-eed3-c2e6-8a4db02ac6d6.htm" />
+  <HelpKINode Title="Property(Of TProperty) method" Url="html/3f0a4e2e-26b2-0bca-a259-0bea67151a62.htm" />
+  <HelpKINode Title="Property&lt;TProperty&gt; method" Url="html/3f0a4e2e-26b2-0bca-a259-0bea67151a62.htm" />
+  <HelpKINode Title="ProvideAspects method" Url="html/22cf638f-1e82-353f-66bf-e22ed3df9bef.htm" />
+  <HelpKINode Title="Provider property" Url="html/3988884a-fa3b-db80-1b0a-5ad9a90faa07.htm" />
+  <HelpKINode Title="Reference(Of TProperty) method" Url="html/dc7e5883-6119-596f-0653-eb0730c1c761.htm" />
+  <HelpKINode Title="Reference&lt;TProperty&gt; method" Url="html/dc7e5883-6119-596f-0653-eb0730c1c761.htm" />
+  <HelpKINode Title="RegisterDocumentTypes method" Url="html/d58fc02a-695f-55ed-d645-3175f64d73e8.htm" />
+  <HelpKINode Title="ReloadAsync method" Url="html/044f7c58-ed2b-015d-84c5-57a7a049b430.htm" />
+  <HelpKINode Title="ReloadDocumentAsync(Of TDocument) method" Url="html/a6296309-ee85-b33f-55c1-c4734dd16aec.htm" />
+  <HelpKINode Title="ReloadDocumentAsync&lt;TDocument&gt; method" Url="html/a6296309-ee85-b33f-55c1-c4734dd16aec.htm" />
+  <HelpKINode Title="Remove method">
+    <HelpKINode Title="NCollectionEntry(TDocument, TElement).Remove Method " Url="html/70566e0e-8d1b-8174-2652-4ed26edee9e2.htm" />
+    <HelpKINode Title="NDocumentSet(TDocument).Remove Method " Url="html/b485c21f-8619-f4e8-d78f-4e1e21e42cc0.htm" />
+    <HelpKINode Title="NHashSet(TDocument).Remove Method " Url="html/cf191fbc-7131-a329-4ac4-86390a19f5d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RuntimeInitializeInstance method" Url="html/963a4861-d39c-af6b-e231-eb3f72f4f0fa.htm" />
+  <HelpKINode Title="SaveChangesAsync method">
+    <HelpKINode Title="NDocumentEntry(TDocument).SaveChangesAsync Method " Url="html/937cb681-4d3c-7d86-1168-4563aa2e10e5.htm" />
+    <HelpKINode Title="NRepositoryContext.SaveChangesAsync Method " Url="html/224ef1ae-4eda-44d1-86f5-3ef0fae70b13.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialize method">
+    <HelpKINode Title="NDocumentSerializer(TDocument).Serialize Method " Url="html/3d84c638-4bd2-d761-0276-d4c167bb950e.htm" />
+    <HelpKINode Title="NDocumentSerializer.Serialize Method " Url="html/01c60c06-8ff0-71bb-433f-2c8c73b2dd60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetEquals method" Url="html/99ddb757-56a5-9488-d786-2e96f760d7cd.htm" />
+  <HelpKINode Title="SetPropertyValue method">
+    <HelpKINode Title="IDocument.SetPropertyValue Method " Url="html/ab33c1e0-d4d9-3f8c-e9cc-2ad15f3c7a8a.htm" />
+    <HelpKINode Title="NDocumentAttribute.SetPropertyValue Method " Url="html/4b0888c4-d75d-2980-23d2-dc064d9084f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Slice(Of T) method" Url="html/72478d94-ad5d-cb0d-7fec-b8eb0c7b8222.htm" />
+  <HelpKINode Title="Slice&lt;T&gt; method" Url="html/72478d94-ad5d-cb0d-7fec-b8eb0c7b8222.htm" />
+  <HelpKINode Title="Subscribe method" Url="html/15f6668c-cfce-82e0-d665-90ac008b87cd.htm" />
+  <HelpKINode Title="SymmetricExceptWith method" Url="html/a536bffd-d526-f782-06cc-8a9fbcb6b4ef.htm" />
+  <HelpKINode Title="TailCollectionFindAsync method" Url="html/e96f83d0-c51d-ee7a-5c30-25b35bf1a776.htm" />
+  <HelpKINode Title="TotalCleanUpTime property" Url="html/604b69b4-3783-922b-3c6a-3fca03f08daf.htm" />
+  <HelpKINode Title="TotalReclaimed property" Url="html/621fe0ae-b826-aa0d-286f-6efe54033503.htm" />
+  <HelpKINode Title="TraceLog class">
+    <HelpKINode Title="TraceLog Class" Url="html/be287c25-1107-b7e8-a3a0-c3d6d96eaf98.htm" />
+    <HelpKINode Title="about TraceLog class" Url="html/be287c25-1107-b7e8-a3a0-c3d6d96eaf98.htm" />
+    <HelpKINode Title="methods" Url="html/f5754de9-6626-db69-97ce-70588b38e60f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TraceLog.WriteCritical method" Url="html/c150aada-b63e-c58a-4296-d5ee5cee1e3a.htm" />
+  <HelpKINode Title="TraceLog.WriteError method" Url="html/e39645a1-ba6b-e324-7bae-f2f1ac262b55.htm" />
+  <HelpKINode Title="TraceLog.WriteInformation method" Url="html/6818bbb9-ddaa-edca-24da-32413b9820fe.htm" />
+  <HelpKINode Title="TraceLog.WriteWarning method" Url="html/9840f61d-afbd-5f53-fbab-59ea14bde7ca.htm" />
+  <HelpKINode Title="TryGetMemberSerializationInfo method" Url="html/73a93290-3da9-170a-6d48-87027d0933f7.htm" />
+  <HelpKINode Title="Unchanged enumeration member" Url="html/dbf49f13-5c0c-aa5e-f7ac-2cc95da4ac51.htm" />
+  <HelpKINode Title="UnchangedAllDocuments property" Url="html/00c77ea8-209d-af3d-bdfd-6e94c1f4f3e4.htm" />
+  <HelpKINode Title="UnchangedDocuments property" Url="html/75f94edd-3baa-904a-4c8f-a01a74e99a79.htm" />
+  <HelpKINode Title="UnionWith method" Url="html/e3a411d5-a8ca-17d0-7a04-a19c90c6ddd1.htm" />
+  <HelpKINode Title="Update method" Url="html/e69e8ad7-aaad-c4cf-f674-3bc7dba8136a.htm" />
+  <HelpKINode Title="ValueType property">
+    <HelpKINode Title="NDocumentSerializer(TDocument).ValueType Property " Url="html/a58c879f-4988-eb2a-ce65-4ba95107e712.htm" />
+    <HelpKINode Title="NDocumentSerializer.ValueType Property " Url="html/81724d27-8ba6-1cd6-1663-8d833b0f373f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WriteCritical method" Url="html/c150aada-b63e-c58a-4296-d5ee5cee1e3a.htm" />
+  <HelpKINode Title="WriteError method" Url="html/e39645a1-ba6b-e324-7bae-f2f1ac262b55.htm" />
+  <HelpKINode Title="WriteInformation method" Url="html/6818bbb9-ddaa-edca-24da-32413b9820fe.htm" />
+  <HelpKINode Title="WriteWarning method" Url="html/9840f61d-afbd-5f53-fbab-59ea14bde7ca.htm" />
+</HelpKI>
